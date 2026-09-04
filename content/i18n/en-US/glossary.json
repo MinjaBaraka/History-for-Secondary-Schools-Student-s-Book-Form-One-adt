@@ -1,0 +1,5124 @@
+{
+  "abolition": {
+    "word": "abolition",
+    "definition": "the act of officially ending something, especially a law or practice",
+    "variations": [
+      "abolition",
+      "abolish",
+      "abolished",
+      "abolishing"
+    ],
+    "emoji": "🛑📜",
+    "id": "gl001"
+  },
+  "adapt": {
+    "word": "adapt",
+    "definition": "to change in order to fit new conditions or an environment",
+    "variations": [
+      "adapt",
+      "adapts",
+      "adapted",
+      "adapting",
+      "adaptation",
+      "adaptations"
+    ],
+    "emoji": "🔄🌍",
+    "id": "gl002"
+  },
+  "administer": {
+    "word": "administer",
+    "definition": "to manage or govern something",
+    "variations": [
+      "administer",
+      "administered",
+      "administering",
+      "administration"
+    ],
+    "emoji": "📋🏛️",
+    "id": "gl003"
+  },
+  "administrative": {
+    "word": "administrative",
+    "definition": "related to organizing, managing, or governing people or places",
+    "variations": [
+      "administrative",
+      "administration"
+    ],
+    "emoji": "🏢📋",
+    "id": "gl004"
+  },
+  "adoption": {
+    "word": "adoption",
+    "definition": "the act of accepting and using something, such as a religion or idea",
+    "variations": [
+      "adoption",
+      "adopt",
+      "adopted",
+      "adopting"
+    ],
+    "emoji": "✅📖",
+    "id": "gl005"
+  },
+  "advisory council": {
+    "word": "advisory council",
+    "definition": "a group of people chosen to give advice to a ruler or government",
+    "variations": [
+      "advisory council",
+      "advisory councils",
+      "council",
+      "councils"
+    ],
+    "emoji": "🗣️🏛️",
+    "id": "gl006"
+  },
+  "age": {
+    "word": "age",
+    "definition": "a long period of history in which something important or powerful is common",
+    "variations": [
+      "age",
+      "ages"
+    ],
+    "emoji": "⏳🏺",
+    "id": "gl007"
+  },
+  "age-set": {
+    "word": "age-set",
+    "definition": "a group of people of about the same age who are given shared roles and responsibilities in society.",
+    "variations": [
+      "age-set",
+      "age-sets"
+    ],
+    "emoji": "🧒🧑👴",
+    "id": "gl008"
+  },
+  "agreement": {
+    "word": "agreement",
+    "definition": "an official decision or promise made between people or groups",
+    "variations": [
+      "agreement",
+      "agreements"
+    ],
+    "emoji": "📜🤝",
+    "id": "gl009"
+  },
+  "agricultural": {
+    "word": "agricultural",
+    "definition": "related to farming and growing crops or keeping animals",
+    "variations": [
+      "agricultural",
+      "agriculture"
+    ],
+    "emoji": "🌾🚜",
+    "id": "gl010"
+  },
+  "agriculturalist": {
+    "word": "agriculturalist",
+    "definition": "a person involved in farming crops",
+    "variations": [
+      "agriculturalist",
+      "agriculturalists"
+    ],
+    "emoji": "🌾👨‍🌾",
+    "id": "gl011"
+  },
+  "agriculture": {
+    "word": "agriculture",
+    "definition": "the growing of crops and keeping of animals for food and other uses",
+    "variations": [
+      "agriculture",
+      "agricultural"
+    ],
+    "emoji": "🌾🚜",
+    "id": "gl012"
+  },
+  "agro-pastoral": {
+    "word": "agro-pastoral",
+    "definition": "relating to a way of life that combines farming and keeping livestock.",
+    "variations": [
+      "agro-pastoral"
+    ],
+    "emoji": "🌽🐐",
+    "id": "gl013"
+  },
+  "allegiance": {
+    "word": "allegiance",
+    "definition": "loyal support or duty to a ruler, group, or country",
+    "variations": [
+      "allegiance"
+    ],
+    "emoji": "🤝👑",
+    "id": "gl014"
+  },
+  "alliance": {
+    "word": "alliance",
+    "definition": "an agreement or connection between people or groups to help one another",
+    "variations": [
+      "alliance",
+      "alliances"
+    ],
+    "emoji": "🤝🛡️",
+    "id": "gl015"
+  },
+  "allocate": {
+    "word": "allocate",
+    "definition": "to give out or assign something for a certain use",
+    "variations": [
+      "allocate",
+      "allocates",
+      "allocated",
+      "allocating"
+    ],
+    "emoji": "📍🤲",
+    "id": "gl016"
+  },
+  "alluvial": {
+    "word": "alluvial",
+    "definition": "carried and left by flowing water, especially in rivers",
+    "variations": [
+      "alluvial"
+    ],
+    "emoji": "🏞️💧",
+    "id": "gl017"
+  },
+  "Almoravids": {
+    "word": "Almoravids",
+    "definition": "a Muslim group from North Africa that attacked Ghana",
+    "variations": [
+      "Almoravid",
+      "Almoravids"
+    ],
+    "emoji": "⚔️🏜️",
+    "id": "gl018"
+  },
+  "anatomical": {
+    "word": "anatomical",
+    "definition": "related to the structure of a body",
+    "variations": [
+      "anatomical",
+      "anatomy"
+    ],
+    "emoji": "🦴👤",
+    "id": "gl019"
+  },
+  "ancestor": {
+    "word": "ancestor",
+    "definition": "a person, animal, or plant from which others came later",
+    "variations": [
+      "ancestor",
+      "ancestors",
+      "ancestral"
+    ],
+    "emoji": "👣🕰️",
+    "id": "gl020"
+  },
+  "ancestral worship": {
+    "word": "ancestral worship",
+    "definition": "the practice of honoring and praying to ancestors",
+    "variations": [
+      "ancestral worship"
+    ],
+    "emoji": "🕯️🙏",
+    "id": "gl021"
+  },
+  "animal husbandry": {
+    "word": "animal husbandry",
+    "definition": "the care and breeding of farm animals",
+    "variations": [
+      "animal husbandry"
+    ],
+    "emoji": "🐄🧑‍🌾",
+    "id": "gl022"
+  },
+  "antacid": {
+    "word": "antacid",
+    "definition": "medicine that reduces too much acid in the stomach",
+    "variations": [
+      "antacid",
+      "antacids"
+    ],
+    "emoji": "💊🩺",
+    "id": "gl023"
+  },
+  "anthropologist": {
+    "word": "anthropologist",
+    "definition": "a person who studies human societies and cultures",
+    "variations": [
+      "anthropologist",
+      "anthropologists"
+    ],
+    "emoji": "🧑‍🏫👥",
+    "id": "gl024"
+  },
+  "anthropology": {
+    "word": "anthropology",
+    "definition": "the study of human societies, cultures, and ways of life",
+    "variations": [
+      "anthropology",
+      "anthropological"
+    ],
+    "emoji": "👥🌐",
+    "id": "gl025"
+  },
+  "anvil": {
+    "word": "anvil",
+    "definition": "a heavy metal block on which hot metal is shaped",
+    "variations": [
+      "anvil",
+      "anvils"
+    ],
+    "emoji": "⚒️🔨",
+    "id": "gl026"
+  },
+  "appoint": {
+    "word": "appoint",
+    "definition": "to officially choose someone for a position or duty",
+    "variations": [
+      "appoint",
+      "appointed",
+      "appoints",
+      "appointing",
+      "appointment"
+    ],
+    "emoji": "📌✅",
+    "id": "gl027"
+  },
+  "arable": {
+    "word": "arable",
+    "definition": "good for growing crops",
+    "variations": [
+      "arable"
+    ],
+    "emoji": "🌱🌾",
+    "id": "gl028"
+  },
+  "archaeological": {
+    "word": "archaeological",
+    "definition": "related to the study of things left behind by people long ago",
+    "variations": [
+      "archaeological",
+      "archaeology",
+      "archaeologist",
+      "archaeologists"
+    ],
+    "emoji": "🏺⛏️",
+    "id": "gl029"
+  },
+  "archaeologist": {
+    "word": "archaeologist",
+    "definition": "a person who studies the remains of past human life",
+    "variations": [
+      "archaeologist",
+      "archaeologists"
+    ],
+    "emoji": "🧑‍🔬⛏️",
+    "id": "gl030"
+  },
+  "archaeology": {
+    "word": "archaeology",
+    "definition": "the study of past human life through objects and remains left behind",
+    "variations": [
+      "archaeology",
+      "archaeological"
+    ],
+    "emoji": "⛏️🏺",
+    "id": "gl031"
+  },
+  "architecture": {
+    "word": "architecture",
+    "definition": "the style and design of buildings",
+    "variations": [
+      "architecture"
+    ],
+    "emoji": "🏠📐",
+    "id": "gl032"
+  },
+  "archive": {
+    "word": "archive",
+    "definition": "a place where important historical documents and records are kept",
+    "variations": [
+      "archive",
+      "archives"
+    ],
+    "emoji": "🗂️🏛️",
+    "id": "gl033"
+  },
+  "arid": {
+    "word": "arid",
+    "definition": "very dry, with little or no rain",
+    "variations": [
+      "arid"
+    ],
+    "emoji": "🏜️☀️",
+    "id": "gl034"
+  },
+  "arrowhead": {
+    "word": "arrowhead",
+    "definition": "the sharp point at the front of an arrow",
+    "variations": [
+      "arrowhead",
+      "arrowheads"
+    ],
+    "emoji": "🏹🔺",
+    "id": "gl035"
+  },
+  "artefact": {
+    "word": "artefact",
+    "definition": "an object made or used by people in the past",
+    "variations": [
+      "artefact",
+      "artefacts"
+    ],
+    "emoji": "🏺🪶",
+    "id": "gl036"
+  },
+  "artifact": {
+    "word": "artifact",
+    "definition": "an object made or used by humans in the past",
+    "variations": [
+      "artifact",
+      "artifacts",
+      "artefact",
+      "artefacts"
+    ],
+    "emoji": "🏺🪓",
+    "id": "gl037"
+  },
+  "artisan": {
+    "word": "artisan",
+    "definition": "a skilled person who makes things by hand",
+    "variations": [
+      "artisan",
+      "artisans"
+    ],
+    "emoji": "🧑‍🎨🛠️",
+    "id": "gl038"
+  },
+  "authority": {
+    "word": "authority",
+    "definition": "the power or right to make decisions and control people",
+    "variations": [
+      "authority",
+      "authorities"
+    ],
+    "emoji": "👑📜",
+    "id": "gl039"
+  },
+  "autonomy": {
+    "word": "autonomy",
+    "definition": "the ability to govern or control oneself",
+    "variations": [
+      "autonomy"
+    ],
+    "emoji": "🗳️🕊️",
+    "id": "gl040"
+  },
+  "bananas": {
+    "word": "bananas",
+    "definition": "long yellow fruits that were also an important crop in some African societies",
+    "variations": [
+      "banana",
+      "bananas"
+    ],
+    "emoji": "🍌",
+    "id": "gl041"
+  },
+  "barbed": {
+    "word": "barbed",
+    "definition": "having sharp points that face backward to hold or catch something",
+    "variations": [
+      "barbed",
+      "barb",
+      "barbs"
+    ],
+    "emoji": "🏹🪝",
+    "id": "gl042"
+  },
+  "basketry": {
+    "word": "basketry",
+    "definition": "the art of making baskets, mats, and similar items by weaving plant materials",
+    "variations": [
+      "basketry"
+    ],
+    "emoji": "🧺🌿",
+    "id": "gl043"
+  },
+  "Before Common Era": {
+    "word": "Before Common Era",
+    "definition": "the time before year zero, written as BCE",
+    "variations": [
+      "Before Common Era",
+      "BCE"
+    ],
+    "emoji": "⬅️📜",
+    "id": "gl044"
+  },
+  "bellows": {
+    "word": "bellows",
+    "definition": "a tool that pushes air into a fire to make it burn hotter",
+    "variations": [
+      "bellows"
+    ],
+    "emoji": "🌬️🔥🛠️",
+    "id": "gl045"
+  },
+  "bipedalism": {
+    "word": "bipedalism",
+    "definition": "the ability to walk on two legs",
+    "variations": [
+      "bipedalism",
+      "bipedal"
+    ],
+    "emoji": "🚶👣",
+    "id": "gl046"
+  },
+  "blowpipe": {
+    "word": "blowpipe",
+    "definition": "a tube through which air is forced into a fire or furnace",
+    "variations": [
+      "blowpipe",
+      "blowpipes"
+    ],
+    "emoji": "🌬️🔥",
+    "id": "gl047"
+  },
+  "brain capacity": {
+    "word": "brain capacity",
+    "definition": "the amount of space inside the skull for the brain",
+    "variations": [
+      "brain capacity",
+      "brain capacities"
+    ],
+    "emoji": "🧠📏",
+    "id": "gl048"
+  },
+  "brows": {
+    "word": "brows",
+    "definition": "the bony area above the eyes; in this text, it means brow ridges",
+    "variations": [
+      "brow",
+      "brows"
+    ],
+    "emoji": "👀🦴",
+    "id": "gl049"
+  },
+  "capacity": {
+    "word": "capacity",
+    "definition": "the ability to do, hold, or produce something",
+    "variations": [
+      "capacity",
+      "capacities"
+    ],
+    "emoji": "📦⚙️",
+    "id": "gl050"
+  },
+  "captive": {
+    "word": "captive",
+    "definition": "a person taken and held by force, especially during war",
+    "variations": [
+      "captive",
+      "captives"
+    ],
+    "emoji": "⛓️🙍",
+    "id": "gl051"
+  },
+  "captives": {
+    "word": "captives",
+    "definition": "people who have been caught and are kept by force",
+    "variations": [
+      "captive",
+      "captives"
+    ],
+    "emoji": "⛓️🚶",
+    "id": "gl052"
+  },
+  "carbon-14 dating": {
+    "word": "carbon-14 dating",
+    "definition": "a scientific way of finding the age of dead plants and animals by measuring carbon 14",
+    "variations": [
+      "carbon-14 dating",
+      "Carbon 14 dating",
+      "carbon dating"
+    ],
+    "emoji": "🧪🌿🦴",
+    "id": "gl053"
+  },
+  "carpentry": {
+    "word": "carpentry",
+    "definition": "the work or skill of making things from wood",
+    "variations": [
+      "carpentry"
+    ],
+    "emoji": "🪵🛠️",
+    "id": "gl054"
+  },
+  "carving": {
+    "word": "carving",
+    "definition": "the art of cutting or shaping wood, stone, or other material to make images or objects",
+    "variations": [
+      "carve",
+      "carving",
+      "carved",
+      "carvings"
+    ],
+    "emoji": "🪵🪨🔨",
+    "id": "gl055"
+  },
+  "cash": {
+    "word": "cash",
+    "definition": "money in the form used to pay for things",
+    "variations": [
+      "cash"
+    ],
+    "emoji": "💵🪙",
+    "id": "gl056"
+  },
+  "cash crop": {
+    "word": "cash crop",
+    "definition": "a crop grown mainly to be sold for money",
+    "variations": [
+      "cash crop",
+      "cash crops"
+    ],
+    "emoji": "💵🌿",
+    "id": "gl057"
+  },
+  "cause": {
+    "word": "cause",
+    "definition": "the reason why something happens",
+    "variations": [
+      "cause",
+      "causes",
+      "caused"
+    ],
+    "emoji": "➡️❓",
+    "id": "gl058"
+  },
+  "centralisation": {
+    "word": "centralisation",
+    "definition": "the process of bringing power and control under one main authority",
+    "variations": [
+      "centralisation",
+      "centralization"
+    ],
+    "emoji": "🏛️🎯",
+    "id": "gl059"
+  },
+  "centralised": {
+    "word": "centralised",
+    "definition": "controlled by one main authority or government from the center",
+    "variations": [
+      "centralised",
+      "centralize",
+      "centralized",
+      "centralising",
+      "centralizing",
+      "centralisation",
+      "centralization"
+    ],
+    "emoji": "🏛️🎯",
+    "id": "gl060"
+  },
+  "century": {
+    "word": "century",
+    "definition": "a period of 100 years",
+    "variations": [
+      "century",
+      "centuries"
+    ],
+    "emoji": "💯📜",
+    "id": "gl061"
+  },
+  "ceremony": {
+    "word": "ceremony",
+    "definition": "a formal event held for a special social or religious reason",
+    "variations": [
+      "ceremony",
+      "ceremonies"
+    ],
+    "emoji": "🎉🕯️",
+    "id": "gl062"
+  },
+  "charcoal": {
+    "word": "charcoal",
+    "definition": "black material made by burning wood slowly, often used as fuel",
+    "variations": [
+      "charcoal",
+      "charcoals"
+    ],
+    "emoji": "🪵🔥",
+    "id": "gl063"
+  },
+  "chief": {
+    "word": "chief",
+    "definition": "a traditional leader of a community or area",
+    "variations": [
+      "chief",
+      "chiefs"
+    ],
+    "emoji": "👑🛖",
+    "id": "gl064"
+  },
+  "chief justice": {
+    "word": "chief justice",
+    "definition": "the highest judge in a state or kingdom",
+    "variations": [
+      "chief justice",
+      "chief justices"
+    ],
+    "emoji": "⚖️👨‍⚖️",
+    "id": "gl065"
+  },
+  "chiefdom": {
+    "word": "chiefdom",
+    "definition": "an area or society ruled by a chief",
+    "variations": [
+      "chiefdom",
+      "chiefdoms"
+    ],
+    "emoji": "👑🌍",
+    "id": "gl066"
+  },
+  "chopper": {
+    "word": "chopper",
+    "definition": "a simple stone tool used for cutting or breaking things",
+    "variations": [
+      "chopper",
+      "choppers"
+    ],
+    "emoji": "🪓🪨",
+    "id": "gl067"
+  },
+  "chronological": {
+    "word": "chronological",
+    "definition": "arranged in the order in which events happened",
+    "variations": [
+      "chronological",
+      "chronologically"
+    ],
+    "emoji": "🕰️➡️",
+    "id": "gl068"
+  },
+  "chronology": {
+    "word": "chronology",
+    "definition": "the arrangement of events in the order they happened in time",
+    "variations": [
+      "chronology",
+      "chronologies",
+      "chronological",
+      "chronologically"
+    ],
+    "emoji": "🕰️📚",
+    "id": "gl069"
+  },
+  "citizen": {
+    "word": "citizen",
+    "definition": "a person who belongs to a country",
+    "variations": [
+      "citizen",
+      "citizens",
+      "citizenship"
+    ],
+    "emoji": "🧍🏳️",
+    "id": "gl070"
+  },
+  "civil rights": {
+    "word": "civil rights",
+    "definition": "the basic rights and freedoms that people should have in society",
+    "variations": [
+      "civil right",
+      "civil rights"
+    ],
+    "emoji": "⚖️🧑‍🤝‍🧑",
+    "id": "gl071"
+  },
+  "civilian": {
+    "word": "civilian",
+    "definition": "a person who is not a soldier or police officer",
+    "variations": [
+      "civilian",
+      "civilians"
+    ],
+    "emoji": "👤🏘️",
+    "id": "gl072"
+  },
+  "civilisation": {
+    "word": "civilisation",
+    "definition": "a developed human society with its own culture, government, and way of life",
+    "variations": [
+      "civilisation",
+      "civilisations"
+    ],
+    "emoji": "🏛️🌍",
+    "id": "gl073"
+  },
+  "clan": {
+    "word": "clan",
+    "definition": "a group of related families with a common ancestor",
+    "variations": [
+      "clan",
+      "clans"
+    ],
+    "emoji": "👨‍👩‍👧‍👦🏘️",
+    "id": "gl074"
+  },
+  "class-biased": {
+    "word": "class-biased",
+    "definition": "favoring one social class over another in an unfair way.",
+    "variations": [
+      "class-biased"
+    ],
+    "emoji": "⚖️🚫",
+    "id": "gl075"
+  },
+  "classless": {
+    "word": "classless",
+    "definition": "without clear social classes such as rich and poor groups",
+    "variations": [
+      "classless"
+    ],
+    "emoji": "⚖️👥",
+    "id": "gl076"
+  },
+  "cleaver": {
+    "word": "cleaver",
+    "definition": "a heavy cutting tool with a wide edge",
+    "variations": [
+      "cleaver",
+      "cleavers"
+    ],
+    "emoji": "🔪🪨",
+    "id": "gl077"
+  },
+  "cloth making": {
+    "word": "cloth making",
+    "definition": "the activity of making cloth or clothes from materials such as cotton, bark, or skins",
+    "variations": [
+      "cloth making"
+    ],
+    "emoji": "👕🧵",
+    "id": "gl078"
+  },
+  "collapse": {
+    "word": "collapse",
+    "definition": "a sudden complete failure or falling apart of a system, state, or structure",
+    "variations": [
+      "collapse",
+      "collapsed",
+      "collapsing"
+    ],
+    "emoji": "🏚️💥",
+    "id": "gl079"
+  },
+  "collective ownership": {
+    "word": "collective ownership",
+    "definition": "a system where property or resources are owned by a group, not one person",
+    "variations": [
+      "collective ownership"
+    ],
+    "emoji": "👥🌍",
+    "id": "gl080"
+  },
+  "collectively": {
+    "word": "collectively",
+    "definition": "done, owned, or shared by a group together.",
+    "variations": [
+      "collectively"
+    ],
+    "emoji": "🤲👥",
+    "id": "gl081"
+  },
+  "colonial": {
+    "word": "colonial",
+    "definition": "related to control of one country by another country",
+    "variations": [
+      "colonial",
+      "colonialism"
+    ],
+    "emoji": "🚩🌍",
+    "id": "gl082"
+  },
+  "colonialism": {
+    "word": "colonialism",
+    "definition": "the system in which one country takes control of another country and rules it",
+    "variations": [
+      "colonialism",
+      "colonial",
+      "colonial rule"
+    ],
+    "emoji": "🚩🌍",
+    "id": "gl083"
+  },
+  "colonisation": {
+    "word": "colonisation",
+    "definition": "the act of one country taking control of another country and ruling it",
+    "variations": [
+      "colonisation",
+      "colonize",
+      "colonised",
+      "colonising",
+      "colonial",
+      "colonization",
+      "colonize",
+      "colonized",
+      "colonizing"
+    ],
+    "emoji": "🚩🌍",
+    "id": "gl084"
+  },
+  "commander": {
+    "word": "commander",
+    "definition": "a person who leads and gives orders to soldiers.",
+    "variations": [
+      "commander",
+      "commanders"
+    ],
+    "emoji": "🪖📢",
+    "id": "gl085"
+  },
+  "commander in chief": {
+    "word": "commander in chief",
+    "definition": "the top leader of a country's or kingdom's armed forces",
+    "variations": [
+      "commander in chief",
+      "commanders in chief"
+    ],
+    "emoji": "🪖👑",
+    "id": "gl086"
+  },
+  "commercial centre": {
+    "word": "commercial centre",
+    "definition": "an important town or city for buying and selling goods",
+    "variations": [
+      "commercial centre",
+      "commercial centres",
+      "commercial center",
+      "commercial centers"
+    ],
+    "emoji": "🏙️💱",
+    "id": "gl087"
+  },
+  "commodities": {
+    "word": "commodities",
+    "definition": "goods or products that are bought, sold, or traded",
+    "variations": [
+      "commodity",
+      "commodities"
+    ],
+    "emoji": "📦💱",
+    "id": "gl088"
+  },
+  "commodity": {
+    "word": "commodity",
+    "definition": "a useful product that can be bought, sold, or exchanged",
+    "variations": [
+      "commodity",
+      "commodities"
+    ],
+    "emoji": "📦💱",
+    "id": "gl089"
+  },
+  "commodity exchange": {
+    "word": "commodity exchange",
+    "definition": "the trading of goods for other goods",
+    "variations": [
+      "commodity exchange",
+      "commodity exchanges"
+    ],
+    "emoji": "🔄📦",
+    "id": "gl090"
+  },
+  "Common Era": {
+    "word": "Common Era",
+    "definition": "the time from year zero up to the present, written as CE",
+    "variations": [
+      "Common Era",
+      "CE"
+    ],
+    "emoji": "📅➡️",
+    "id": "gl091"
+  },
+  "communal": {
+    "word": "communal",
+    "definition": "shared by all members of a group or community",
+    "variations": [
+      "communal"
+    ],
+    "emoji": "👥🏘️",
+    "id": "gl092"
+  },
+  "communalism": {
+    "word": "communalism",
+    "definition": "a system in which people share resources and work together for the good of all",
+    "variations": [
+      "communalism"
+    ],
+    "emoji": "🤝🏘️",
+    "id": "gl093"
+  },
+  "comparative anatomy": {
+    "word": "comparative anatomy",
+    "definition": "the study of body parts of different living things to see how they are alike or different",
+    "variations": [
+      "comparative anatomy"
+    ],
+    "emoji": "🦴🔍",
+    "id": "gl094"
+  },
+  "competency": {
+    "word": "competency",
+    "definition": "an important skill or ability to do something well",
+    "variations": [
+      "competency",
+      "competencies"
+    ],
+    "emoji": "💡🏆",
+    "id": "gl095"
+  },
+  "competitor": {
+    "word": "competitor",
+    "definition": "a person, group, or state trying to gain the same thing as another",
+    "variations": [
+      "competitor",
+      "competitors",
+      "compete",
+      "competition"
+    ],
+    "emoji": "🏁⚔️",
+    "id": "gl096"
+  },
+  "condemn": {
+    "word": "condemn",
+    "definition": "to strongly say that something is wrong or bad.",
+    "variations": [
+      "condemn",
+      "condemns",
+      "condemning",
+      "condemned"
+    ],
+    "emoji": "🚫🗣️",
+    "id": "gl097"
+  },
+  "conducive": {
+    "word": "conducive",
+    "definition": "helping something to happen or develop well",
+    "variations": [
+      "conducive"
+    ],
+    "emoji": "🌱✅",
+    "id": "gl098"
+  },
+  "confederation": {
+    "word": "confederation",
+    "definition": "a group of smaller states or groups joined together for a common purpose",
+    "variations": [
+      "confederation",
+      "confederations"
+    ],
+    "emoji": "🤝🏳️",
+    "id": "gl099"
+  },
+  "confidential": {
+    "word": "confidential",
+    "definition": "meant to be kept private and not shared with everyone",
+    "variations": [
+      "confidential",
+      "confidentiality"
+    ],
+    "emoji": "🔒🤫",
+    "id": "gl100"
+  },
+  "confiscate": {
+    "word": "confiscate",
+    "definition": "to take something away officially or by force",
+    "variations": [
+      "confiscate",
+      "confiscated",
+      "confiscating"
+    ],
+    "emoji": "✋📦",
+    "id": "gl101"
+  },
+  "conflict": {
+    "word": "conflict",
+    "definition": "a serious disagreement or struggle between people or groups",
+    "variations": [
+      "conflict",
+      "conflicts"
+    ],
+    "emoji": "⚔️😠",
+    "id": "gl102"
+  },
+  "conquer": {
+    "word": "conquer",
+    "definition": "to take control of a place or people by force",
+    "variations": [
+      "conquer",
+      "conquered",
+      "conquering",
+      "conquest"
+    ],
+    "emoji": "⚔️🏴",
+    "id": "gl103"
+  },
+  "conquest": {
+    "word": "conquest",
+    "definition": "the act of taking control of a place or people by force.",
+    "variations": [
+      "conquest",
+      "conquests"
+    ],
+    "emoji": "⚔️🏴",
+    "id": "gl104"
+  },
+  "conserve": {
+    "word": "conserve",
+    "definition": "to protect something from damage or loss",
+    "variations": [
+      "conserve",
+      "conserved",
+      "conserves",
+      "conserving",
+      "conservation"
+    ],
+    "emoji": "🌿🛡️",
+    "id": "gl105"
+  },
+  "consolidate": {
+    "word": "consolidate",
+    "definition": "to make something stronger, more united, or more secure",
+    "variations": [
+      "consolidate",
+      "consolidated",
+      "consolidating",
+      "consolidation"
+    ],
+    "emoji": "🧱🤝",
+    "id": "gl106"
+  },
+  "conspiracy": {
+    "word": "conspiracy",
+    "definition": "a secret plan by a group to do something harmful or unlawful.",
+    "variations": [
+      "conspiracy",
+      "conspiracies"
+    ],
+    "emoji": "🤫⚠️",
+    "id": "gl107"
+  },
+  "consumption": {
+    "word": "consumption",
+    "definition": "the using of goods such as food or other resources",
+    "variations": [
+      "consumption",
+      "consume",
+      "consumed",
+      "consuming"
+    ],
+    "emoji": "🍽️📦",
+    "id": "gl108"
+  },
+  "context": {
+    "word": "context",
+    "definition": "the situation or conditions in which something happens",
+    "variations": [
+      "context",
+      "contexts"
+    ],
+    "emoji": "🗺️📌",
+    "id": "gl109"
+  },
+  "contract": {
+    "word": "contract",
+    "definition": "a formal agreement between people",
+    "variations": [
+      "contract",
+      "contracts"
+    ],
+    "emoji": "📝🤝",
+    "id": "gl110"
+  },
+  "core": {
+    "word": "core",
+    "definition": "the central stone from which pieces are broken to make tools",
+    "variations": [
+      "core",
+      "cores"
+    ],
+    "emoji": "🪨🎯",
+    "id": "gl111"
+  },
+  "council of elders": {
+    "word": "council of elders",
+    "definition": "a group of older respected people who guide the community and make important decisions.",
+    "variations": [
+      "council of elders"
+    ],
+    "emoji": "👴👵🪑",
+    "id": "gl112"
+  },
+  "creation": {
+    "word": "creation",
+    "definition": "the act of bringing something into existence",
+    "variations": [
+      "creation",
+      "creations",
+      "create",
+      "created",
+      "creating"
+    ],
+    "emoji": "✨🌍",
+    "id": "gl113"
+  },
+  "crop cultivation": {
+    "word": "crop cultivation",
+    "definition": "the growing of crops on land",
+    "variations": [
+      "crop cultivation"
+    ],
+    "emoji": "🌱🌾",
+    "id": "gl114"
+  },
+  "crop yield": {
+    "word": "crop yield",
+    "definition": "the amount of crops produced from a piece of land",
+    "variations": [
+      "crop yield",
+      "crop yields"
+    ],
+    "emoji": "🌾📈",
+    "id": "gl115"
+  },
+  "crude": {
+    "word": "crude",
+    "definition": "simple and rough, not well made or finished",
+    "variations": [
+      "crude",
+      "crudely"
+    ],
+    "emoji": "🪨🔨",
+    "id": "gl116"
+  },
+  "cultivate": {
+    "word": "cultivate",
+    "definition": "to prepare land and grow crops on it",
+    "variations": [
+      "cultivate",
+      "cultivated",
+      "cultivating",
+      "cultivation"
+    ],
+    "emoji": "🌱🚜",
+    "id": "gl117"
+  },
+  "cultivation": {
+    "word": "cultivation",
+    "definition": "the preparing and growing of crops on land",
+    "variations": [
+      "cultivation",
+      "cultivate",
+      "cultivated",
+      "cultivates",
+      "cultivating"
+    ],
+    "emoji": "🌱🚜",
+    "id": "gl118"
+  },
+  "curator": {
+    "word": "curator",
+    "definition": "a person who manages and cares for objects in a museum",
+    "variations": [
+      "curator",
+      "curators"
+    ],
+    "emoji": "🖼️🧑‍🏫",
+    "id": "gl119"
+  },
+  "currency": {
+    "word": "currency",
+    "definition": "money or anything used as money in exchange",
+    "variations": [
+      "currency",
+      "currencies"
+    ],
+    "emoji": "💰🪙",
+    "id": "gl120"
+  },
+  "custom": {
+    "word": "custom",
+    "definition": "a traditional way of behaving in a society",
+    "variations": [
+      "custom",
+      "customs"
+    ],
+    "emoji": "🎎🤝",
+    "id": "gl121"
+  },
+  "dating": {
+    "word": "dating",
+    "definition": "finding out when something happened in the past",
+    "variations": [
+      "dating",
+      "dated"
+    ],
+    "emoji": "📅🔍",
+    "id": "gl122"
+  },
+  "debate": {
+    "word": "debate",
+    "definition": "a discussion in which people express different opinions",
+    "variations": [
+      "debate",
+      "debates",
+      "debated",
+      "debating"
+    ],
+    "emoji": "💬⚖️",
+    "id": "gl123"
+  },
+  "debt": {
+    "word": "debt",
+    "definition": "money or something else that a person owes to another person",
+    "variations": [
+      "debt",
+      "debts"
+    ],
+    "emoji": "💰📄",
+    "id": "gl124"
+  },
+  "decade": {
+    "word": "decade",
+    "definition": "a period of ten years",
+    "variations": [
+      "decade",
+      "decades"
+    ],
+    "emoji": "📅",
+    "id": "gl125"
+  },
+  "decentralised": {
+    "word": "decentralised",
+    "definition": "with power shared among different people or groups instead of one center",
+    "variations": [
+      "decentralised",
+      "decentralized"
+    ],
+    "emoji": "↔️👥",
+    "id": "gl126"
+  },
+  "decline": {
+    "word": "decline",
+    "definition": "a gradual weakening, reduction, or fall in power or importance",
+    "variations": [
+      "decline",
+      "declined",
+      "declining"
+    ],
+    "emoji": "📉⬇️",
+    "id": "gl127"
+  },
+  "decoration": {
+    "word": "decoration",
+    "definition": "something added to make a person or place look nicer",
+    "variations": [
+      "decoration",
+      "decorations",
+      "decorate",
+      "decorated",
+      "decorating"
+    ],
+    "emoji": "🎨✨",
+    "id": "gl128"
+  },
+  "deployed": {
+    "word": "deployed",
+    "definition": "sent to a place to carry out a duty, especially military duty.",
+    "variations": [
+      "deploy",
+      "deploys",
+      "deployed",
+      "deploying"
+    ],
+    "emoji": "🚶🪖",
+    "id": "gl129"
+  },
+  "deprived": {
+    "word": "deprived",
+    "definition": "not allowed to have something important or necessary",
+    "variations": [
+      "deprived",
+      "deprive",
+      "deprivation"
+    ],
+    "emoji": "🚫😞",
+    "id": "gl130"
+  },
+  "descendant": {
+    "word": "descendant",
+    "definition": "a person related to someone from an earlier generation",
+    "variations": [
+      "descendant",
+      "descendants"
+    ],
+    "emoji": "👨‍👩‍👧🌳",
+    "id": "gl131"
+  },
+  "development": {
+    "word": "development",
+    "definition": "growth or change that makes something more advanced",
+    "variations": [
+      "development",
+      "developments",
+      "develop"
+    ],
+    "emoji": "📈🌱",
+    "id": "gl132"
+  },
+  "differentiate": {
+    "word": "differentiate",
+    "definition": "to show or understand the difference between things",
+    "variations": [
+      "differentiate",
+      "differentiates",
+      "differentiated",
+      "differentiating"
+    ],
+    "emoji": "↔️🔎",
+    "id": "gl133"
+  },
+  "digital": {
+    "word": "digital",
+    "definition": "stored or used in electronic form on a computer or online",
+    "variations": [
+      "digital",
+      "digitally"
+    ],
+    "emoji": "💻📱",
+    "id": "gl134"
+  },
+  "disappearance": {
+    "word": "disappearance",
+    "definition": "the act of going away or no longer being seen",
+    "variations": [
+      "disappearance",
+      "disappear",
+      "disappeared",
+      "disappearing"
+    ],
+    "emoji": "🌫️❓",
+    "id": "gl135"
+  },
+  "discipline": {
+    "word": "discipline",
+    "definition": "training that helps people obey rules and control their behavior",
+    "variations": [
+      "discipline",
+      "disciplined"
+    ],
+    "emoji": "🪖📏",
+    "id": "gl136"
+  },
+  "discovered": {
+    "word": "discovered",
+    "definition": "found or learned something for the first time",
+    "variations": [
+      "discover",
+      "discovered",
+      "discovers",
+      "discovering",
+      "discovery"
+    ],
+    "emoji": "🔎✨",
+    "id": "gl137"
+  },
+  "discriminatory": {
+    "word": "discriminatory",
+    "definition": "treating some people unfairly because they belong to a certain group.",
+    "variations": [
+      "discriminatory"
+    ],
+    "emoji": "🚫⚖️",
+    "id": "gl138"
+  },
+  "disintegration": {
+    "word": "disintegration",
+    "definition": "the breaking apart of a group, system, or state into smaller parts",
+    "variations": [
+      "disintegration",
+      "disintegrate",
+      "disintegrated",
+      "disintegrating"
+    ],
+    "emoji": "🧩💥",
+    "id": "gl139"
+  },
+  "distortion": {
+    "word": "distortion",
+    "definition": "a change that makes information untrue, unclear, or misleading",
+    "variations": [
+      "distortion",
+      "distort",
+      "distorted",
+      "distortions"
+    ],
+    "emoji": "🔀⚠️",
+    "id": "gl140"
+  },
+  "distribution": {
+    "word": "distribution",
+    "definition": "the sharing out or giving of goods among people",
+    "variations": [
+      "distribution",
+      "distributions",
+      "distribute",
+      "distributed",
+      "distributing"
+    ],
+    "emoji": "📦🤲",
+    "id": "gl141"
+  },
+  "diversity": {
+    "word": "diversity",
+    "definition": "the condition of having many different types or forms",
+    "variations": [
+      "diversity",
+      "diverse"
+    ],
+    "emoji": "🌍🧩",
+    "id": "gl142"
+  },
+  "diviner": {
+    "word": "diviner",
+    "definition": "a person believed to discover hidden knowledge or explain spiritual matters.",
+    "variations": [
+      "diviner",
+      "diviners"
+    ],
+    "emoji": "🔮🕯️",
+    "id": "gl143"
+  },
+  "division of labour": {
+    "word": "division of labour",
+    "definition": "the sharing of different kinds of work among different people",
+    "variations": [
+      "division of labour"
+    ],
+    "emoji": "👥🛠️",
+    "id": "gl144"
+  },
+  "document": {
+    "word": "document",
+    "definition": "a written or recorded piece of information",
+    "variations": [
+      "document",
+      "documents"
+    ],
+    "emoji": "📄📝",
+    "id": "gl145"
+  },
+  "domestic": {
+    "word": "domestic",
+    "definition": "related to the home or household use",
+    "variations": [
+      "domestic"
+    ],
+    "emoji": "🏠🍲",
+    "id": "gl146"
+  },
+  "domesticated": {
+    "word": "domesticated",
+    "definition": "tamed and kept by humans, especially animals raised at home or on farms",
+    "variations": [
+      "domesticate",
+      "domesticated",
+      "domesticates",
+      "domesticating"
+    ],
+    "emoji": "🐕🐑",
+    "id": "gl147"
+  },
+  "domestication": {
+    "word": "domestication",
+    "definition": "the process of taming and raising animals for human use",
+    "variations": [
+      "domestication",
+      "domesticate",
+      "domesticated",
+      "domesticating"
+    ],
+    "emoji": "🐄🐐",
+    "id": "gl148"
+  },
+  "dominion": {
+    "word": "dominion",
+    "definition": "an area controlled by a ruler",
+    "variations": [
+      "dominion",
+      "dominions"
+    ],
+    "emoji": "🗺️👑",
+    "id": "gl149"
+  },
+  "dowry": {
+    "word": "dowry",
+    "definition": "property or wealth given during marriage arrangements",
+    "variations": [
+      "dowry",
+      "dowries"
+    ],
+    "emoji": "💍🐄",
+    "id": "gl150"
+  },
+  "drought-resistant": {
+    "word": "drought-resistant",
+    "definition": "able to live or grow with very little rain or water",
+    "variations": [
+      "drought-resistant"
+    ],
+    "emoji": "☀️🌱",
+    "id": "gl151"
+  },
+  "dugout canoe": {
+    "word": "dugout canoe",
+    "definition": "a boat made by hollowing out a large tree trunk",
+    "variations": [
+      "dugout canoe",
+      "dugout canoes"
+    ],
+    "emoji": "🛶🌳",
+    "id": "gl152"
+  },
+  "dye": {
+    "word": "dye",
+    "definition": "a substance used to give color to cloth or other materials",
+    "variations": [
+      "dye",
+      "dyes",
+      "dyed",
+      "dyeing"
+    ],
+    "emoji": "🎨🧥",
+    "id": "gl153"
+  },
+  "dynastic": {
+    "word": "dynastic",
+    "definition": "related to a series of rulers from the same family",
+    "variations": [
+      "dynastic",
+      "dynasty",
+      "dynasties"
+    ],
+    "emoji": "👑🧬",
+    "id": "gl154"
+  },
+  "dynasty": {
+    "word": "dynasty",
+    "definition": "a series of rulers from the same family",
+    "variations": [
+      "dynasty",
+      "dynasties"
+    ],
+    "emoji": "👑🏰",
+    "id": "gl155"
+  },
+  "ecofact": {
+    "word": "ecofact",
+    "definition": "a natural remain, such as a seed or bone, that gives information about the past",
+    "variations": [
+      "ecofact",
+      "ecofacts"
+    ],
+    "emoji": "🌱🦴",
+    "id": "gl156"
+  },
+  "economic production": {
+    "word": "economic production",
+    "definition": "the process of making goods and services to meet human needs",
+    "variations": [
+      "economic production",
+      "economic productions"
+    ],
+    "emoji": "🏭🌾",
+    "id": "gl157"
+  },
+  "economy": {
+    "word": "economy",
+    "definition": "the system of making, buying, and selling goods and services in a place",
+    "variations": [
+      "economy",
+      "economies",
+      "economic"
+    ],
+    "emoji": "💰📊",
+    "id": "gl158"
+  },
+  "educative": {
+    "word": "educative",
+    "definition": "teaching something useful or giving knowledge",
+    "variations": [
+      "educative"
+    ],
+    "emoji": "🎓📘",
+    "id": "gl159"
+  },
+  "effect": {
+    "word": "effect",
+    "definition": "the result of a cause or action",
+    "variations": [
+      "effect",
+      "effects"
+    ],
+    "emoji": "🎯📍",
+    "id": "gl160"
+  },
+  "efficient": {
+    "word": "efficient",
+    "definition": "working well without wasting time, effort, or materials",
+    "variations": [
+      "efficient",
+      "efficiency",
+      "efficiently"
+    ],
+    "emoji": "⚙️✅",
+    "id": "gl161"
+  },
+  "empire": {
+    "word": "empire",
+    "definition": "a large state made up of many peoples or areas controlled by one ruler or government",
+    "variations": [
+      "empire",
+      "empires"
+    ],
+    "emoji": "👑🗺️",
+    "id": "gl162"
+  },
+  "enslaved": {
+    "word": "enslaved",
+    "definition": "forced to live and work as a slave",
+    "variations": [
+      "enslaved",
+      "enslave",
+      "enslaves"
+    ],
+    "emoji": "⛓️🚫",
+    "id": "gl163"
+  },
+  "enslavement": {
+    "word": "enslavement",
+    "definition": "the act of forcing people into slavery",
+    "variations": [
+      "enslavement",
+      "enslave",
+      "enslaved",
+      "enslaving"
+    ],
+    "emoji": "⛓️😔",
+    "id": "gl164"
+  },
+  "environment": {
+    "word": "environment",
+    "definition": "the natural surroundings where people, animals, or plants live",
+    "variations": [
+      "environment",
+      "environments",
+      "environmental"
+    ],
+    "emoji": "🌳🏞️",
+    "id": "gl165"
+  },
+  "ethnic group": {
+    "word": "ethnic group",
+    "definition": "a group of people who share the same culture, language, or ancestry",
+    "variations": [
+      "ethnic group",
+      "ethnic groups"
+    ],
+    "emoji": "👥🌍",
+    "id": "gl166"
+  },
+  "ethnographic": {
+    "word": "ethnographic",
+    "definition": "related to the detailed study and recording of people's cultures and daily life",
+    "variations": [
+      "ethnographic",
+      "ethnography"
+    ],
+    "emoji": "👥📷",
+    "id": "gl167"
+  },
+  "evaporation": {
+    "word": "evaporation",
+    "definition": "the process in which liquid changes into gas or dries up",
+    "variations": [
+      "evaporate",
+      "evaporates",
+      "evaporated",
+      "evaporating",
+      "evaporation"
+    ],
+    "emoji": "☀️💧",
+    "id": "gl168"
+  },
+  "event": {
+    "word": "event",
+    "definition": "something that happens at a particular time",
+    "variations": [
+      "event",
+      "events"
+    ],
+    "emoji": "📅✨",
+    "id": "gl169"
+  },
+  "evidence": {
+    "word": "evidence",
+    "definition": "facts or objects that help show something is true or existed",
+    "variations": [
+      "evidence"
+    ],
+    "emoji": "🔎📜",
+    "id": "gl170"
+  },
+  "evolution": {
+    "word": "evolution",
+    "definition": "the slow change and development of living things over a long time",
+    "variations": [
+      "evolution",
+      "evolutionary"
+    ],
+    "emoji": "🧬🐾",
+    "id": "gl171"
+  },
+  "excavation": {
+    "word": "excavation",
+    "definition": "the careful digging of الأرض or soil to find things from the past",
+    "variations": [
+      "excavation",
+      "excavations",
+      "excavate",
+      "excavated",
+      "excavating"
+    ],
+    "emoji": "⛏️🕳️",
+    "id": "gl172"
+  },
+  "expansion": {
+    "word": "expansion",
+    "definition": "the act of becoming larger or spreading into more areas",
+    "variations": [
+      "expansion",
+      "expansions",
+      "expand",
+      "expanded",
+      "expanding"
+    ],
+    "emoji": "🗺️📈",
+    "id": "gl173"
+  },
+  "exploit": {
+    "word": "exploit",
+    "definition": "to use people unfairly for one’s own benefit",
+    "variations": [
+      "exploit",
+      "exploited",
+      "exploitation",
+      "exploits"
+    ],
+    "emoji": "⚠️👤",
+    "id": "gl174"
+  },
+  "exploitative": {
+    "word": "exploitative",
+    "definition": "treating workers unfairly by using their labour without proper benefit to them",
+    "variations": [
+      "exploitative",
+      "exploitation",
+      "exploit"
+    ],
+    "emoji": "⚠️⛓️",
+    "id": "gl175"
+  },
+  "external": {
+    "word": "external",
+    "definition": "coming from outside",
+    "variations": [
+      "external",
+      "externally"
+    ],
+    "emoji": "🌍🚪",
+    "id": "gl176"
+  },
+  "extraction": {
+    "word": "extraction",
+    "definition": "the process of taking something out from where it is found",
+    "variations": [
+      "extract",
+      "extracts",
+      "extracted",
+      "extracting",
+      "extraction"
+    ],
+    "emoji": "⛏️🔍",
+    "id": "gl177"
+  },
+  "facilitate": {
+    "word": "facilitate",
+    "definition": "to make something easier or possible",
+    "variations": [
+      "facilitate",
+      "facilitated",
+      "facilitates",
+      "facilitating"
+    ],
+    "emoji": "🛠️✅",
+    "id": "gl178"
+  },
+  "factor": {
+    "word": "factor",
+    "definition": "one of the causes or influences that helps produce a result",
+    "variations": [
+      "factor",
+      "factors"
+    ],
+    "emoji": "⚙️➕",
+    "id": "gl179"
+  },
+  "fallow": {
+    "word": "fallow",
+    "definition": "land left uncultivated for some time so that it can regain fertility",
+    "variations": [
+      "fallow"
+    ],
+    "emoji": "🌾⏸️",
+    "id": "gl180"
+  },
+  "family tree": {
+    "word": "family tree",
+    "definition": "a chart that shows members of a family and how they are related",
+    "variations": [
+      "family tree",
+      "family trees"
+    ],
+    "emoji": "🌳👪",
+    "id": "gl181"
+  },
+  "federation": {
+    "word": "federation",
+    "definition": "a group of states or regions joined together under one central authority",
+    "variations": [
+      "federation",
+      "federations"
+    ],
+    "emoji": "🧩🏛️",
+    "id": "gl182"
+  },
+  "fertile": {
+    "word": "fertile",
+    "definition": "rich and good for growing crops",
+    "variations": [
+      "fertile",
+      "fertility"
+    ],
+    "emoji": "🌱🟫",
+    "id": "gl183"
+  },
+  "festival": {
+    "word": "festival",
+    "definition": "a special public celebration, often with cultural or religious meaning",
+    "variations": [
+      "festival",
+      "festivals"
+    ],
+    "emoji": "🎉🥁",
+    "id": "gl184"
+  },
+  "feudal lord": {
+    "word": "feudal lord",
+    "definition": "a powerful landowner in a feudal system",
+    "variations": [
+      "feudal lord",
+      "feudal lords"
+    ],
+    "emoji": "👑🌍",
+    "id": "gl185"
+  },
+  "feudalism": {
+    "word": "feudalism",
+    "definition": "a system in which landowners control land and peasants or serfs work on it and pay rent or give service",
+    "variations": [
+      "feudalism",
+      "feudal"
+    ],
+    "emoji": "🏰🌾",
+    "id": "gl186"
+  },
+  "fieldwork": {
+    "word": "fieldwork",
+    "definition": "study done by going out to the place being studied",
+    "variations": [
+      "fieldwork"
+    ],
+    "emoji": "🧭📝",
+    "id": "gl187"
+  },
+  "flake": {
+    "word": "flake",
+    "definition": "a small thin piece broken off from a stone",
+    "variations": [
+      "flake",
+      "flakes"
+    ],
+    "emoji": "🪨🔹",
+    "id": "gl188"
+  },
+  "flaking": {
+    "word": "flaking",
+    "definition": "the process of breaking small sharp pieces from stone to make tools",
+    "variations": [
+      "flake",
+      "flaking",
+      "flaked",
+      "flakes"
+    ],
+    "emoji": "🪨🔨",
+    "id": "gl189"
+  },
+  "food security": {
+    "word": "food security",
+    "definition": "a situation where people have enough food to eat regularly",
+    "variations": [
+      "food security"
+    ],
+    "emoji": "🍽️🌾",
+    "id": "gl190"
+  },
+  "footprint": {
+    "word": "footprint",
+    "definition": "a mark left by a foot on the ground",
+    "variations": [
+      "footprint",
+      "footprints"
+    ],
+    "emoji": "👣🌋",
+    "id": "gl191"
+  },
+  "forge": {
+    "word": "forge",
+    "definition": "to shape heated metal into tools or other objects",
+    "variations": [
+      "forge",
+      "forged",
+      "forging",
+      "forges"
+    ],
+    "emoji": "🔨🔥",
+    "id": "gl192"
+  },
+  "forged": {
+    "word": "forged",
+    "definition": "heated and shaped metal into tools or other objects",
+    "variations": [
+      "forge",
+      "forged",
+      "forging"
+    ],
+    "emoji": "🔨🔥",
+    "id": "gl193"
+  },
+  "forging": {
+    "word": "forging",
+    "definition": "the process of shaping hot metal by hammering it",
+    "variations": [
+      "forge",
+      "forges",
+      "forged",
+      "forging"
+    ],
+    "emoji": "🔥🔨",
+    "id": "gl194"
+  },
+  "formation": {
+    "word": "formation",
+    "definition": "the way people or things are arranged in a planned pattern",
+    "variations": [
+      "formation",
+      "formations"
+    ],
+    "emoji": "🔺👥",
+    "id": "gl195"
+  },
+  "fossil": {
+    "word": "fossil",
+    "definition": "the preserved remains or mark of a plant or animal from long ago",
+    "variations": [
+      "fossil",
+      "fossils"
+    ],
+    "emoji": "🦴🪨",
+    "id": "gl196"
+  },
+  "foundation": {
+    "word": "foundation",
+    "definition": "the basic beginning or support on which something is built",
+    "variations": [
+      "foundation",
+      "foundations"
+    ],
+    "emoji": "🧱🏗️",
+    "id": "gl197"
+  },
+  "furnace": {
+    "word": "furnace",
+    "definition": "a very hot enclosed place used for heating or melting materials",
+    "variations": [
+      "furnace",
+      "furnaces"
+    ],
+    "emoji": "🔥🏭",
+    "id": "gl198"
+  },
+  "furrow": {
+    "word": "furrow",
+    "definition": "a long narrow trench made in the soil for planting or carrying water",
+    "variations": [
+      "furrow",
+      "furrows"
+    ],
+    "emoji": "🚜🕳️",
+    "id": "gl199"
+  },
+  "gathering": {
+    "word": "gathering",
+    "definition": "the activity of collecting wild food such as fruits, nuts, and roots",
+    "variations": [
+      "gather",
+      "gathering",
+      "gathered",
+      "gathers"
+    ],
+    "emoji": "🍇🥜🧺",
+    "id": "gl200"
+  },
+  "gender": {
+    "word": "gender",
+    "definition": "the social roles and responsibilities given to men and women by society",
+    "variations": [
+      "gender",
+      "genders"
+    ],
+    "emoji": "👨👩",
+    "id": "gl201"
+  },
+  "generation": {
+    "word": "generation",
+    "definition": "a period of time in which children grow up and have children of their own",
+    "variations": [
+      "generation",
+      "generations"
+    ],
+    "emoji": "👨‍👩‍👧🕰️",
+    "id": "gl202"
+  },
+  "genus": {
+    "word": "genus",
+    "definition": "a group of closely related species in scientific classification",
+    "variations": [
+      "genus",
+      "genera"
+    ],
+    "emoji": "🧬📚",
+    "id": "gl203"
+  },
+  "governing": {
+    "word": "governing",
+    "definition": "controlling or managing a country, group, or organization",
+    "variations": [
+      "govern",
+      "governs",
+      "governed",
+      "governing"
+    ],
+    "emoji": "🏛️👥",
+    "id": "gl204"
+  },
+  "grazing": {
+    "word": "grazing",
+    "definition": "the feeding of animals on grass in the field",
+    "variations": [
+      "grazing",
+      "graze",
+      "grazed"
+    ],
+    "emoji": "🐄🌿",
+    "id": "gl205"
+  },
+  "guardian": {
+    "word": "guardian",
+    "definition": "a person who protects something or someone",
+    "variations": [
+      "guardian",
+      "guardians"
+    ],
+    "emoji": "🛡️👀",
+    "id": "gl206"
+  },
+  "hammered": {
+    "word": "hammered",
+    "definition": "hit many times with a hammer to shape something",
+    "variations": [
+      "hammer",
+      "hammers",
+      "hammered",
+      "hammering"
+    ],
+    "emoji": "🔨⚒️",
+    "id": "gl207"
+  },
+  "hand axe": {
+    "word": "hand axe",
+    "definition": "a stone tool shaped to fit in the hand and used for cutting or chopping",
+    "variations": [
+      "hand axe",
+      "hand axes"
+    ],
+    "emoji": "🪓✋",
+    "id": "gl208"
+  },
+  "handcraft": {
+    "word": "handcraft",
+    "definition": "an object made by hand using skill, or the skill of making such objects",
+    "variations": [
+      "handcraft",
+      "handcrafts"
+    ],
+    "emoji": "🧺✋",
+    "id": "gl209"
+  },
+  "harpoon": {
+    "word": "harpoon",
+    "definition": "a long spear used for catching large fish or sea animals",
+    "variations": [
+      "harpoon",
+      "harpoons"
+    ],
+    "emoji": "🎣🗡️",
+    "id": "gl210"
+  },
+  "herder": {
+    "word": "herder",
+    "definition": "a person who takes care of and moves livestock",
+    "variations": [
+      "herder",
+      "herders"
+    ],
+    "emoji": "🐐🚶",
+    "id": "gl211"
+  },
+  "hereditary": {
+    "word": "hereditary",
+    "definition": "passed from parent to child, especially in leadership",
+    "variations": [
+      "hereditary"
+    ],
+    "emoji": "👨‍👦👑",
+    "id": "gl212"
+  },
+  "heritage": {
+    "word": "heritage",
+    "definition": "the history, traditions, and valued things passed down from earlier generations",
+    "variations": [
+      "heritage"
+    ],
+    "emoji": "🏺🌍",
+    "id": "gl213"
+  },
+  "hides": {
+    "word": "hides",
+    "definition": "animal skins used for making things like clothes or shelter materials",
+    "variations": [
+      "hide",
+      "hides"
+    ],
+    "emoji": "🐄🧥",
+    "id": "gl214"
+  },
+  "hierarchical": {
+    "word": "hierarchical",
+    "definition": "arranged in levels from highest to lowest",
+    "variations": [
+      "hierarchical",
+      "hierarchy"
+    ],
+    "emoji": "📊⬆️",
+    "id": "gl215"
+  },
+  "hierarchy": {
+    "word": "hierarchy",
+    "definition": "a system in which people have different ranks from highest to lowest",
+    "variations": [
+      "hierarchy",
+      "hierarchies"
+    ],
+    "emoji": "🔼🏛️",
+    "id": "gl216"
+  },
+  "historian": {
+    "word": "historian",
+    "definition": "a person who studies and writes about the past",
+    "variations": [
+      "historian",
+      "historians"
+    ],
+    "emoji": "📚🧠",
+    "id": "gl217"
+  },
+  "historical linguistics": {
+    "word": "historical linguistics",
+    "definition": "the study of languages and how they change over time to learn about the past",
+    "variations": [
+      "historical linguistics"
+    ],
+    "emoji": "🗣️📚",
+    "id": "gl218"
+  },
+  "historical site": {
+    "word": "historical site",
+    "definition": "a place where remains of past human life or activities are found",
+    "variations": [
+      "historical site",
+      "historical sites"
+    ],
+    "emoji": "🏺📍",
+    "id": "gl219"
+  },
+  "history": {
+    "word": "history",
+    "definition": "the study of past events and how they affect people’s lives today",
+    "variations": [
+      "history",
+      "histories",
+      "historical"
+    ],
+    "emoji": "📚⏳",
+    "id": "gl220"
+  },
+  "Homo sapiens sapiens": {
+    "word": "Homo sapiens sapiens",
+    "definition": "the scientific name for modern human beings",
+    "variations": [
+      "Homo sapiens sapiens"
+    ],
+    "emoji": "🧍🧠",
+    "id": "gl221"
+  },
+  "human labour": {
+    "word": "human labour",
+    "definition": "the physical and mental effort people use to produce things",
+    "variations": [
+      "human labour",
+      "labour"
+    ],
+    "emoji": "💪🧠",
+    "id": "gl222"
+  },
+  "human rights": {
+    "word": "human rights",
+    "definition": "the basic rights and freedoms every person should have",
+    "variations": [
+      "human right",
+      "human rights"
+    ],
+    "emoji": "⚖️🧑",
+    "id": "gl223"
+  },
+  "ideology": {
+    "word": "ideology",
+    "definition": "a set of beliefs or ideas about politics, religion, or society",
+    "variations": [
+      "ideology",
+      "ideologies"
+    ],
+    "emoji": "🧠📚",
+    "id": "gl224"
+  },
+  "impact": {
+    "word": "impact",
+    "definition": "a strong effect that something has on someone or something",
+    "variations": [
+      "impact",
+      "impacts",
+      "impacted"
+    ],
+    "emoji": "💥📍",
+    "id": "gl225"
+  },
+  "impart": {
+    "word": "impart",
+    "definition": "to give knowledge, skills, or values to someone.",
+    "variations": [
+      "impart",
+      "imparts",
+      "imparting",
+      "imparted"
+    ],
+    "emoji": "🧠📘",
+    "id": "gl226"
+  },
+  "imperial": {
+    "word": "imperial",
+    "definition": "related to a powerful country controlling other lands and people",
+    "variations": [
+      "imperial",
+      "imperialism",
+      "imperialist",
+      "imperialists"
+    ],
+    "emoji": "👑🌍",
+    "id": "gl227"
+  },
+  "independence": {
+    "word": "independence",
+    "definition": "freedom to rule or act without control from another power",
+    "variations": [
+      "independence",
+      "independent"
+    ],
+    "emoji": "🕊️🏳️",
+    "id": "gl228"
+  },
+  "indigenous": {
+    "word": "indigenous",
+    "definition": "native to a place; originally from that area",
+    "variations": [
+      "indigenous"
+    ],
+    "emoji": "🌍🏞️",
+    "id": "gl229"
+  },
+  "indigestion": {
+    "word": "indigestion",
+    "definition": "pain or discomfort in the stomach after eating",
+    "variations": [
+      "indigestion"
+    ],
+    "emoji": "🤢🍽️",
+    "id": "gl230"
+  },
+  "industry": {
+    "word": "industry",
+    "definition": "work or business that makes goods, often in factories or by skilled workers",
+    "variations": [
+      "industry",
+      "industries"
+    ],
+    "emoji": "🏭⚒️",
+    "id": "gl231"
+  },
+  "influence": {
+    "word": "influence",
+    "definition": "to affect the way something happens or develops",
+    "variations": [
+      "influence",
+      "influences",
+      "influenced",
+      "influencing"
+    ],
+    "emoji": "🧠➡️",
+    "id": "gl232"
+  },
+  "inheritance": {
+    "word": "inheritance",
+    "definition": "property, position, or rights received from family members after they die or by tradition",
+    "variations": [
+      "inheritance",
+      "inheritances"
+    ],
+    "emoji": "🏠📜",
+    "id": "gl233"
+  },
+  "initiation": {
+    "word": "initiation",
+    "definition": "a ceremony or process that marks a person's entry into a new stage of life or group.",
+    "variations": [
+      "initiation",
+      "initiations"
+    ],
+    "emoji": "🎓🔥",
+    "id": "gl234"
+  },
+  "innovation": {
+    "word": "innovation",
+    "definition": "a new idea, method, or tool that improves something",
+    "variations": [
+      "innovation",
+      "innovations"
+    ],
+    "emoji": "💡⚙️",
+    "id": "gl235"
+  },
+  "instill": {
+    "word": "instill",
+    "definition": "to slowly put an idea, value, or feeling into someone's mind.",
+    "variations": [
+      "instill",
+      "instills",
+      "instilling",
+      "instilled"
+    ],
+    "emoji": "🧠🌱",
+    "id": "gl236"
+  },
+  "institution": {
+    "word": "institution",
+    "definition": "an established organization or system in society",
+    "variations": [
+      "institution",
+      "institutions"
+    ],
+    "emoji": "🏫🏛️",
+    "id": "gl237"
+  },
+  "instruments of labour": {
+    "word": "instruments of labour",
+    "definition": "tools used by people to do work and produce goods or services",
+    "variations": [
+      "instrument of labour",
+      "instruments of labour"
+    ],
+    "emoji": "🛠️🔨",
+    "id": "gl238"
+  },
+  "intensive labour": {
+    "word": "intensive labour",
+    "definition": "work that needs a lot of human effort and time",
+    "variations": [
+      "intensive labour"
+    ],
+    "emoji": "💪🛠️",
+    "id": "gl239"
+  },
+  "interlacustrine": {
+    "word": "interlacustrine",
+    "definition": "located between lakes",
+    "variations": [
+      "interlacustrine"
+    ],
+    "emoji": "🌊🗺️",
+    "id": "gl240"
+  },
+  "intermediary": {
+    "word": "intermediary",
+    "definition": "a person or place that connects two sides in trade or communication",
+    "variations": [
+      "intermediary",
+      "intermediaries"
+    ],
+    "emoji": "🤝🔗",
+    "id": "gl241"
+  },
+  "interpret": {
+    "word": "interpret",
+    "definition": "to explain the meaning of something",
+    "variations": [
+      "interpret",
+      "interpreted",
+      "interprets",
+      "interpreting",
+      "interpretation"
+    ],
+    "emoji": "🧠📖",
+    "id": "gl242"
+  },
+  "interpretation": {
+    "word": "interpretation",
+    "definition": "an explanation of the meaning of something",
+    "variations": [
+      "interpretation",
+      "interpretations",
+      "interpret"
+    ],
+    "emoji": "🧠🗣️",
+    "id": "gl243"
+  },
+  "interrelated": {
+    "word": "interrelated",
+    "definition": "connected to each other in some way",
+    "variations": [
+      "interrelated"
+    ],
+    "emoji": "🔗🧩",
+    "id": "gl244"
+  },
+  "invade": {
+    "word": "invade",
+    "definition": "to enter a place by force in order to take control of it",
+    "variations": [
+      "invade",
+      "invaded",
+      "invading",
+      "invasion",
+      "invasions"
+    ],
+    "emoji": "⚔️🚩",
+    "id": "gl245"
+  },
+  "invasion": {
+    "word": "invasion",
+    "definition": "an armed entry into a place to take control of it",
+    "variations": [
+      "invasion",
+      "invasions",
+      "invade",
+      "invaded",
+      "invading"
+    ],
+    "emoji": "⚔️🚩",
+    "id": "gl246"
+  },
+  "Iron Age": {
+    "word": "Iron Age",
+    "definition": "the period when people used iron to make tools and weapons",
+    "variations": [
+      "Iron Age",
+      "Iron Ages"
+    ],
+    "emoji": "⛓️🛠️",
+    "id": "gl247"
+  },
+  "iron forging": {
+    "word": "iron forging",
+    "definition": "the process of shaping heated iron into useful tools or objects",
+    "variations": [
+      "iron forging",
+      "forging"
+    ],
+    "emoji": "🔨⚒️",
+    "id": "gl248"
+  },
+  "iron ore": {
+    "word": "iron ore",
+    "definition": "rock or earth from which iron can be taken",
+    "variations": [
+      "iron ore",
+      "iron ores"
+    ],
+    "emoji": "🪨⛓️",
+    "id": "gl249"
+  },
+  "iron smelting": {
+    "word": "iron smelting",
+    "definition": "the process of heating iron ore to produce pure iron",
+    "variations": [
+      "iron smelting",
+      "smelting"
+    ],
+    "emoji": "🔥⛓️🏭",
+    "id": "gl250"
+  },
+  "ironsmith": {
+    "word": "ironsmith",
+    "definition": "a person who makes tools or weapons from iron",
+    "variations": [
+      "ironsmith",
+      "ironsmiths"
+    ],
+    "emoji": "⚒️🧑‍🏭",
+    "id": "gl251"
+  },
+  "ironworking": {
+    "word": "ironworking",
+    "definition": "the process of making tools or weapons from iron",
+    "variations": [
+      "ironworking"
+    ],
+    "emoji": "⚒️🔩",
+    "id": "gl252"
+  },
+  "irrigation": {
+    "word": "irrigation",
+    "definition": "the method of supplying water to crops or land",
+    "variations": [
+      "irrigation",
+      "irrigation systems"
+    ],
+    "emoji": "💧🌾",
+    "id": "gl253"
+  },
+  "ivory": {
+    "word": "ivory",
+    "definition": "the hard white material from elephant tusks, often traded in the past",
+    "variations": [
+      "ivory"
+    ],
+    "emoji": "🐘🤍",
+    "id": "gl254"
+  },
+  "justify": {
+    "word": "justify",
+    "definition": "to give reasons to show that something is right or acceptable",
+    "variations": [
+      "justify",
+      "justified",
+      "justifies",
+      "justifying"
+    ],
+    "emoji": "📜🗣️",
+    "id": "gl255"
+  },
+  "kiln": {
+    "word": "kiln",
+    "definition": "a special oven or heating structure used for burning or heating materials",
+    "variations": [
+      "kiln",
+      "kilns"
+    ],
+    "emoji": "🔥🏺",
+    "id": "gl256"
+  },
+  "kingdom": {
+    "word": "kingdom",
+    "definition": "a country or area ruled by a king or queen",
+    "variations": [
+      "kingdom",
+      "kingdoms"
+    ],
+    "emoji": "👑🏰",
+    "id": "gl257"
+  },
+  "kingship": {
+    "word": "kingship",
+    "definition": "the position or power of being a king",
+    "variations": [
+      "kingship",
+      "kingships"
+    ],
+    "emoji": "👑🪑",
+    "id": "gl258"
+  },
+  "kinship": {
+    "word": "kinship",
+    "definition": "family relationship or connection by blood or marriage",
+    "variations": [
+      "kinship",
+      "kinships"
+    ],
+    "emoji": "👪🤝",
+    "id": "gl259"
+  },
+  "laboratory": {
+    "word": "laboratory",
+    "definition": "a place where scientific study and testing are done",
+    "variations": [
+      "laboratory",
+      "laboratories"
+    ],
+    "emoji": "🧪🔬",
+    "id": "gl260"
+  },
+  "labour": {
+    "word": "labour",
+    "definition": "work done by people, especially physical work",
+    "variations": [
+      "labour",
+      "labor"
+    ],
+    "emoji": "🛠️💪",
+    "id": "gl261"
+  },
+  "laibon": {
+    "word": "laibon",
+    "definition": "a senior Maasai leader with important cultural, political, and religious authority.",
+    "variations": [
+      "laibon",
+      "laibons"
+    ],
+    "emoji": "👴🕯️👑",
+    "id": "gl262"
+  },
+  "landless": {
+    "word": "landless",
+    "definition": "having no land of one’s own",
+    "variations": [
+      "landless"
+    ],
+    "emoji": "🚫🌍",
+    "id": "gl263"
+  },
+  "landowner": {
+    "word": "landowner",
+    "definition": "a person who owns land",
+    "variations": [
+      "landowner",
+      "landowners"
+    ],
+    "emoji": "🌍👤",
+    "id": "gl264"
+  },
+  "leaching": {
+    "word": "leaching",
+    "definition": "a method of removing a substance by passing water through soil or rock",
+    "variations": [
+      "leach",
+      "leaches",
+      "leached",
+      "leaching"
+    ],
+    "emoji": "💧🪨",
+    "id": "gl265"
+  },
+  "legitimise": {
+    "word": "legitimise",
+    "definition": "to make something accepted as lawful or proper",
+    "variations": [
+      "legitimise",
+      "legitimised",
+      "legitimising",
+      "legitimisation",
+      "legitimize",
+      "legitimized",
+      "legitimizing",
+      "legitimization"
+    ],
+    "emoji": "✅📜",
+    "id": "gl266"
+  },
+  "levy": {
+    "word": "levy",
+    "definition": "to officially collect a tax, fee, or duty",
+    "variations": [
+      "levy",
+      "levied",
+      "levies",
+      "levying"
+    ],
+    "emoji": "💰📋",
+    "id": "gl267"
+  },
+  "limb bones": {
+    "word": "limb bones",
+    "definition": "the bones of the arms and legs",
+    "variations": [
+      "limb bone",
+      "limb bones"
+    ],
+    "emoji": "🦴🦵",
+    "id": "gl268"
+  },
+  "lineage": {
+    "word": "lineage",
+    "definition": "family line or ancestry",
+    "variations": [
+      "lineage",
+      "lineages"
+    ],
+    "emoji": "👨‍👩‍👧‍👦🌳",
+    "id": "gl269"
+  },
+  "livelihood": {
+    "word": "livelihood",
+    "definition": "the way a person gets food, money, and other needs for living",
+    "variations": [
+      "livelihood",
+      "livelihoods"
+    ],
+    "emoji": "💼🌾",
+    "id": "gl270"
+  },
+  "livestock": {
+    "word": "livestock",
+    "definition": "farm animals such as cattle, goats, or sheep kept for use or sale",
+    "variations": [
+      "livestock"
+    ],
+    "emoji": "🐄🐐",
+    "id": "gl271"
+  },
+  "livestock keeping": {
+    "word": "livestock keeping",
+    "definition": "the activity of raising farm animals",
+    "variations": [
+      "livestock keeping"
+    ],
+    "emoji": "🐄🐑",
+    "id": "gl272"
+  },
+  "long-term": {
+    "word": "long-term",
+    "definition": "continuing for a long period of time",
+    "variations": [
+      "long-term"
+    ],
+    "emoji": "🕰️📆",
+    "id": "gl273"
+  },
+  "loyal": {
+    "word": "loyal",
+    "definition": "faithful and supportive to a person, ruler, or group",
+    "variations": [
+      "loyal",
+      "loyalty"
+    ],
+    "emoji": "🤝❤️",
+    "id": "gl274"
+  },
+  "loyalty": {
+    "word": "loyalty",
+    "definition": "strong support or faithfulness to a person, group, or country",
+    "variations": [
+      "loyalty",
+      "loyalties",
+      "loyal"
+    ],
+    "emoji": "🤝❤️",
+    "id": "gl275"
+  },
+  "manure": {
+    "word": "manure",
+    "definition": "animal waste used to make soil richer for growing crops",
+    "variations": [
+      "manure",
+      "manures"
+    ],
+    "emoji": "💩🌱",
+    "id": "gl276"
+  },
+  "marital": {
+    "word": "marital",
+    "definition": "relating to marriage.",
+    "variations": [
+      "marital"
+    ],
+    "emoji": "💍👫",
+    "id": "gl277"
+  },
+  "marrow": {
+    "word": "marrow",
+    "definition": "the soft material inside bones",
+    "variations": [
+      "marrow"
+    ],
+    "emoji": "🦴🥣",
+    "id": "gl278"
+  },
+  "material remains": {
+    "word": "material remains",
+    "definition": "physical objects left behind by people in the past",
+    "variations": [
+      "material remain",
+      "material remains"
+    ],
+    "emoji": "🏺🦴",
+    "id": "gl279"
+  },
+  "maternal": {
+    "word": "maternal",
+    "definition": "related to a mother or the mother’s side of the family",
+    "variations": [
+      "maternal"
+    ],
+    "emoji": "👩👶",
+    "id": "gl280"
+  },
+  "matrilineal": {
+    "word": "matrilineal",
+    "definition": "tracing family line, name, or inheritance through the mother",
+    "variations": [
+      "matrilineal"
+    ],
+    "emoji": "👩🌳",
+    "id": "gl281"
+  },
+  "means of production": {
+    "word": "means of production",
+    "definition": "all the labour, tools, and resources used to produce goods and services",
+    "variations": [
+      "means of production"
+    ],
+    "emoji": "🏭🛠️🌾",
+    "id": "gl282"
+  },
+  "medium of exchange": {
+    "word": "medium of exchange",
+    "definition": "something accepted by people for buying, selling, or trading",
+    "variations": [
+      "medium of exchange",
+      "media of exchange"
+    ],
+    "emoji": "💱🪙",
+    "id": "gl283"
+  },
+  "mental labour": {
+    "word": "mental labour",
+    "definition": "work done mainly using the mind, knowledge, and skills",
+    "variations": [
+      "mental labour"
+    ],
+    "emoji": "🧠📘",
+    "id": "gl284"
+  },
+  "merchant": {
+    "word": "merchant",
+    "definition": "a person who buys and sells goods, especially in large amounts",
+    "variations": [
+      "merchant",
+      "merchants"
+    ],
+    "emoji": "🛒⛵",
+    "id": "gl285"
+  },
+  "metalworking": {
+    "word": "metalworking",
+    "definition": "the skill of making tools or objects from metal",
+    "variations": [
+      "metalworking"
+    ],
+    "emoji": "🔨⚙️",
+    "id": "gl286"
+  },
+  "midwifery": {
+    "word": "midwifery",
+    "definition": "the skill or work of helping women during childbirth.",
+    "variations": [
+      "midwifery"
+    ],
+    "emoji": "👶🩺",
+    "id": "gl287"
+  },
+  "migrate": {
+    "word": "migrate",
+    "definition": "to move from one place to another to live there",
+    "variations": [
+      "migrate",
+      "migrated",
+      "migrating",
+      "migration",
+      "migrations"
+    ],
+    "emoji": "🚶🧳",
+    "id": "gl288"
+  },
+  "migration": {
+    "word": "migration",
+    "definition": "the movement of people from one place to another",
+    "variations": [
+      "migration",
+      "migrations",
+      "migrate",
+      "migrated",
+      "migrating"
+    ],
+    "emoji": "🚶🌍",
+    "id": "gl289"
+  },
+  "military": {
+    "word": "military",
+    "definition": "related to soldiers, armies, or war",
+    "variations": [
+      "military"
+    ],
+    "emoji": "🪖⚔️",
+    "id": "gl290"
+  },
+  "military strength": {
+    "word": "military strength",
+    "definition": "the power of a state shown by the size and ability of its army",
+    "variations": [
+      "military strength"
+    ],
+    "emoji": "🪖⚔️",
+    "id": "gl291"
+  },
+  "millennium": {
+    "word": "millennium",
+    "definition": "a period of 1,000 years",
+    "variations": [
+      "millennium",
+      "millennia"
+    ],
+    "emoji": "🕰️1️⃣0️⃣0️⃣0️⃣",
+    "id": "gl292"
+  },
+  "minerals": {
+    "word": "minerals",
+    "definition": "natural substances found in the ground, such as iron, gold, or salt",
+    "variations": [
+      "mineral",
+      "minerals"
+    ],
+    "emoji": "🪨🌍",
+    "id": "gl293"
+  },
+  "mining": {
+    "word": "mining",
+    "definition": "the activity of taking minerals or valuable materials out of the ground",
+    "variations": [
+      "mine",
+      "mines",
+      "mined",
+      "mining"
+    ],
+    "emoji": "⛏️🪨",
+    "id": "gl294"
+  },
+  "mixed farming": {
+    "word": "mixed farming",
+    "definition": "a system of farming that combines growing crops and keeping animals",
+    "variations": [
+      "mixed farming"
+    ],
+    "emoji": "🌽🐄",
+    "id": "gl295"
+  },
+  "mode of production": {
+    "word": "mode of production",
+    "definition": "the way a society organizes labour, tools, and resources to produce goods",
+    "variations": [
+      "mode of production",
+      "modes of production"
+    ],
+    "emoji": "🏭👥",
+    "id": "gl296"
+  },
+  "modification": {
+    "word": "modification",
+    "definition": "a change made to improve or adjust something",
+    "variations": [
+      "modification",
+      "modifications",
+      "modify",
+      "modified",
+      "modifying"
+    ],
+    "emoji": "✏️🔧",
+    "id": "gl297"
+  },
+  "monopoly": {
+    "word": "monopoly",
+    "definition": "complete control of a trade or business by one person or group",
+    "variations": [
+      "monopoly",
+      "monopolies",
+      "monopolised",
+      "monopolized",
+      "monopolise",
+      "monopolize"
+    ],
+    "emoji": "💼🔒",
+    "id": "gl298"
+  },
+  "Moran": {
+    "word": "Moran",
+    "definition": "among the Maasai, a young warrior in a certain age-set with duties such as protection and herding.",
+    "variations": [
+      "Moran",
+      "Morans"
+    ],
+    "emoji": "🛡️🐄",
+    "id": "gl299"
+  },
+  "mummification": {
+    "word": "mummification",
+    "definition": "the process of preserving a dead body so it does not decay quickly",
+    "variations": [
+      "mummification"
+    ],
+    "emoji": "🧻⚰️",
+    "id": "gl300"
+  },
+  "museum": {
+    "word": "museum",
+    "definition": "a place where objects of history, art, or science are kept and shown to people",
+    "variations": [
+      "museum",
+      "museums"
+    ],
+    "emoji": "🏛️🖼️",
+    "id": "gl301"
+  },
+  "mutual": {
+    "word": "mutual",
+    "definition": "shared by two or more sides",
+    "variations": [
+      "mutual"
+    ],
+    "emoji": "🔄🤝",
+    "id": "gl302"
+  },
+  "myth": {
+    "word": "myth",
+    "definition": "a traditional story that explains beliefs, origins, or natural events",
+    "variations": [
+      "myth",
+      "myths",
+      "mythical"
+    ],
+    "emoji": "📖✨",
+    "id": "gl303"
+  },
+  "narrative": {
+    "word": "narrative",
+    "definition": "a spoken or written account of events or experiences",
+    "variations": [
+      "narrative",
+      "narratives"
+    ],
+    "emoji": "📖🗣️",
+    "id": "gl304"
+  },
+  "nationalist": {
+    "word": "nationalist",
+    "definition": "a person who strongly supports the freedom and interests of their nation",
+    "variations": [
+      "nationalist",
+      "nationalists",
+      "nationalism"
+    ],
+    "emoji": "🏳️✊",
+    "id": "gl305"
+  },
+  "natural selection": {
+    "word": "natural selection",
+    "definition": "the process in which living things with helpful features survive and reproduce more successfully",
+    "variations": [
+      "natural selection"
+    ],
+    "emoji": "🌿🧬",
+    "id": "gl306"
+  },
+  "nobility": {
+    "word": "nobility",
+    "definition": "people from the highest social class, often with special rank or title",
+    "variations": [
+      "nobility",
+      "noble",
+      "nobles"
+    ],
+    "emoji": "👑🏰",
+    "id": "gl307"
+  },
+  "nomadic": {
+    "word": "nomadic",
+    "definition": "moving from place to place instead of living in one place all the time",
+    "variations": [
+      "nomadic",
+      "nomad",
+      "nomads"
+    ],
+    "emoji": "🚶🐪",
+    "id": "gl308"
+  },
+  "non-centralised": {
+    "word": "non-centralised",
+    "definition": "organized without one single center of power or one main ruler",
+    "variations": [
+      "non-centralised",
+      "non-centralized"
+    ],
+    "emoji": "🧩👥",
+    "id": "gl309"
+  },
+  "norm": {
+    "word": "norm",
+    "definition": "a rule or standard of behavior accepted by a group or society.",
+    "variations": [
+      "norm",
+      "norms"
+    ],
+    "emoji": "📏👥",
+    "id": "gl310"
+  },
+  "objects of labour": {
+    "word": "objects of labour",
+    "definition": "the natural things or materials people work on to produce goods",
+    "variations": [
+      "object of labour",
+      "objects of labour"
+    ],
+    "emoji": "🌍🪵🌊",
+    "id": "gl311"
+  },
+  "obligation": {
+    "word": "obligation",
+    "definition": "a duty or responsibility that a person must fulfill",
+    "variations": [
+      "obligation",
+      "obligations"
+    ],
+    "emoji": "📌🤲",
+    "id": "gl312"
+  },
+  "occurrence": {
+    "word": "occurrence",
+    "definition": "something that happens; an event",
+    "variations": [
+      "occurrence",
+      "occurrences",
+      "occur",
+      "occurred"
+    ],
+    "emoji": "📍⏰",
+    "id": "gl313"
+  },
+  "offspring": {
+    "word": "offspring",
+    "definition": "the young produced by people, animals, or plants",
+    "variations": [
+      "offspring"
+    ],
+    "emoji": "🐣👶",
+    "id": "gl314"
+  },
+  "opposition": {
+    "word": "opposition",
+    "definition": "strong disagreement or resistance to someone or something",
+    "variations": [
+      "opposition",
+      "oppose",
+      "opposed"
+    ],
+    "emoji": "✋⚔️",
+    "id": "gl315"
+  },
+  "oral testimony": {
+    "word": "oral testimony",
+    "definition": "information about the past told by someone who saw or experienced it",
+    "variations": [
+      "oral testimony",
+      "oral testimonies"
+    ],
+    "emoji": "🗨️👤",
+    "id": "gl316"
+  },
+  "oral tradition": {
+    "word": "oral tradition",
+    "definition": "historical information passed by word of mouth from one generation to another",
+    "variations": [
+      "oral tradition",
+      "oral traditions"
+    ],
+    "emoji": "🗣️👂",
+    "id": "gl317"
+  },
+  "ore": {
+    "word": "ore",
+    "definition": "rock or earth that contains a useful metal",
+    "variations": [
+      "ore",
+      "ores"
+    ],
+    "emoji": "🪨⛏️",
+    "id": "gl318"
+  },
+  "origin": {
+    "word": "origin",
+    "definition": "the beginning or starting point of something",
+    "variations": [
+      "origin",
+      "origins"
+    ],
+    "emoji": "🌱📍",
+    "id": "gl319"
+  },
+  "ornament": {
+    "word": "ornament",
+    "definition": "an object used for decoration",
+    "variations": [
+      "ornament",
+      "ornaments"
+    ],
+    "emoji": "💍✨",
+    "id": "gl320"
+  },
+  "overpopulation": {
+    "word": "overpopulation",
+    "definition": "a situation in which too many people live in one area.",
+    "variations": [
+      "overpopulation"
+    ],
+    "emoji": "👥🏠",
+    "id": "gl321"
+  },
+  "oversight": {
+    "word": "oversight",
+    "definition": "watching and checking that something is done properly",
+    "variations": [
+      "oversight",
+      "oversee",
+      "overseeing",
+      "oversaw"
+    ],
+    "emoji": "👀📋",
+    "id": "gl322"
+  },
+  "overthrow": {
+    "word": "overthrow",
+    "definition": "to remove a ruler or government from power by force",
+    "variations": [
+      "overthrow",
+      "overthrew",
+      "overthrown",
+      "overthrowing"
+    ],
+    "emoji": "⚔️⬇️",
+    "id": "gl323"
+  },
+  "participation": {
+    "word": "participation",
+    "definition": "the act of taking part in something",
+    "variations": [
+      "participation",
+      "participations",
+      "participate",
+      "participated",
+      "participating"
+    ],
+    "emoji": "🙋🤝",
+    "id": "gl324"
+  },
+  "partition": {
+    "word": "partition",
+    "definition": "the division of a country or area into separate parts",
+    "variations": [
+      "partition",
+      "partitions",
+      "partitioned",
+      "partitioning"
+    ],
+    "emoji": "✂️🗺️",
+    "id": "gl325"
+  },
+  "pastoral": {
+    "word": "pastoral",
+    "definition": "relating to people who keep and move with livestock for their livelihood.",
+    "variations": [
+      "pastoral",
+      "pastoralists"
+    ],
+    "emoji": "🐄🌾",
+    "id": "gl326"
+  },
+  "pastoralism": {
+    "word": "pastoralism",
+    "definition": "a way of life based on keeping and grazing animals",
+    "variations": [
+      "pastoralism"
+    ],
+    "emoji": "🐄🌿",
+    "id": "gl327"
+  },
+  "pastoralist": {
+    "word": "pastoralist",
+    "definition": "a person whose life depends mainly on keeping livestock",
+    "variations": [
+      "pastoralist",
+      "pastoralists"
+    ],
+    "emoji": "🐐👣",
+    "id": "gl328"
+  },
+  "patrilineal": {
+    "word": "patrilineal",
+    "definition": "tracing family line, name, or inheritance through the father",
+    "variations": [
+      "patrilineal"
+    ],
+    "emoji": "👨🌳",
+    "id": "gl329"
+  },
+  "patriotism": {
+    "word": "patriotism",
+    "definition": "love for and loyalty to one's country",
+    "variations": [
+      "patriotism",
+      "patriotic",
+      "patriot"
+    ],
+    "emoji": "🏳️❤️",
+    "id": "gl330"
+  },
+  "patronage": {
+    "word": "patronage",
+    "definition": "support or protection given by a powerful person to another person",
+    "variations": [
+      "patronage"
+    ],
+    "emoji": "🤝🛡️",
+    "id": "gl331"
+  },
+  "peacekeeping": {
+    "word": "peacekeeping",
+    "definition": "the work of keeping peace and preventing violence.",
+    "variations": [
+      "peacekeeping"
+    ],
+    "emoji": "🕊️🛡️",
+    "id": "gl332"
+  },
+  "peasant": {
+    "word": "peasant",
+    "definition": "a farmer with little land or wealth",
+    "variations": [
+      "peasant",
+      "peasants"
+    ],
+    "emoji": "🌾👨‍🌾",
+    "id": "gl333"
+  },
+  "peasant economy": {
+    "word": "peasant economy",
+    "definition": "an economy based mainly on small-scale farming by ordinary rural people",
+    "variations": [
+      "peasant economy",
+      "peasant economies"
+    ],
+    "emoji": "🌾👨‍🌾",
+    "id": "gl334"
+  },
+  "peasants": {
+    "word": "peasants",
+    "definition": "farmers or rural people with small pieces of land and low social status.",
+    "variations": [
+      "peasant",
+      "peasants"
+    ],
+    "emoji": "🌾👨‍🌾",
+    "id": "gl335"
+  },
+  "period": {
+    "word": "period",
+    "definition": "a length of time in history marked by a certain event or condition",
+    "variations": [
+      "period",
+      "periods"
+    ],
+    "emoji": "📆",
+    "id": "gl336"
+  },
+  "permanent crop cultivation": {
+    "word": "permanent crop cultivation",
+    "definition": "a type of farming in which people grow crops on the same land for a long time",
+    "variations": [
+      "permanent crop cultivation"
+    ],
+    "emoji": "🌾📍",
+    "id": "gl337"
+  },
+  "perspective": {
+    "word": "perspective",
+    "definition": "a particular way of thinking about or understanding something",
+    "variations": [
+      "perspective",
+      "perspectives"
+    ],
+    "emoji": "👀🧭",
+    "id": "gl338"
+  },
+  "phase": {
+    "word": "phase",
+    "definition": "a stage or part in a process or period of time",
+    "variations": [
+      "phase",
+      "phases"
+    ],
+    "emoji": "🧩📆",
+    "id": "gl339"
+  },
+  "physical labour": {
+    "word": "physical labour",
+    "definition": "work done mainly with the body and strength",
+    "variations": [
+      "physical labour"
+    ],
+    "emoji": "💪🧱",
+    "id": "gl340"
+  },
+  "pick": {
+    "word": "pick",
+    "definition": "a pointed tool used for digging or breaking hard things",
+    "variations": [
+      "pick",
+      "picks"
+    ],
+    "emoji": "⛏️🪨",
+    "id": "gl341"
+  },
+  "pillar": {
+    "word": "pillar",
+    "definition": "an important part that supports something",
+    "variations": [
+      "pillar",
+      "pillars"
+    ],
+    "emoji": "🏛️🧱",
+    "id": "gl342"
+  },
+  "plunder": {
+    "word": "plunder",
+    "definition": "to steal goods by force, especially during war",
+    "variations": [
+      "plunder",
+      "plundered",
+      "plundering"
+    ],
+    "emoji": "💰⚔️",
+    "id": "gl343"
+  },
+  "political": {
+    "word": "political",
+    "definition": "related to government, leadership, or power in a society",
+    "variations": [
+      "political",
+      "politics"
+    ],
+    "emoji": "🏛️🗳️",
+    "id": "gl344"
+  },
+  "political centralisation": {
+    "word": "political centralisation",
+    "definition": "the process of putting political power under one main central authority.",
+    "variations": [
+      "political centralisation"
+    ],
+    "emoji": "🏛️⬆️",
+    "id": "gl345"
+  },
+  "political organisation": {
+    "word": "political organisation",
+    "definition": "the way leadership and government are arranged in a state",
+    "variations": [
+      "political organisation",
+      "political organizations",
+      "political organisation",
+      "political organisations"
+    ],
+    "emoji": "🏛️📋",
+    "id": "gl346"
+  },
+  "political system": {
+    "word": "political system",
+    "definition": "the way power and leadership are organized in a society or country",
+    "variations": [
+      "political system",
+      "political systems"
+    ],
+    "emoji": "🏛️📜",
+    "id": "gl347"
+  },
+  "politics": {
+    "word": "politics",
+    "definition": "activities and ideas connected with government and leadership",
+    "variations": [
+      "politics",
+      "political"
+    ],
+    "emoji": "🏛️🗳️",
+    "id": "gl348"
+  },
+  "population": {
+    "word": "population",
+    "definition": "all the people living in a place",
+    "variations": [
+      "population",
+      "populations"
+    ],
+    "emoji": "👥🌍",
+    "id": "gl349"
+  },
+  "Potassium-argon": {
+    "word": "Potassium-argon",
+    "definition": "a scientific method used to date very old rocks, ash, and remains connected to them",
+    "variations": [
+      "Potassium-argon",
+      "potassium-argon"
+    ],
+    "emoji": "🪨🧪",
+    "id": "gl350"
+  },
+  "pottery": {
+    "word": "pottery",
+    "definition": "the art of making pots and other objects from clay",
+    "variations": [
+      "pottery"
+    ],
+    "emoji": "🏺🟤",
+    "id": "gl351"
+  },
+  "poverty": {
+    "word": "poverty",
+    "definition": "the condition of being very poor and lacking basic needs",
+    "variations": [
+      "poverty",
+      "poor"
+    ],
+    "emoji": "😔💸",
+    "id": "gl352"
+  },
+  "pre-colonial": {
+    "word": "pre-colonial",
+    "definition": "from the time before foreign powers took control of a place",
+    "variations": [
+      "pre-colonial",
+      "precolonial"
+    ],
+    "emoji": "⏳🌍",
+    "id": "gl353"
+  },
+  "preservative": {
+    "word": "preservative",
+    "definition": "something used to keep food or other things from going bad",
+    "variations": [
+      "preservative",
+      "preservatives"
+    ],
+    "emoji": "🧂🥩",
+    "id": "gl354"
+  },
+  "preserve": {
+    "word": "preserve",
+    "definition": "to keep something safe and in good condition for a long time",
+    "variations": [
+      "preserve",
+      "preserved",
+      "preserves",
+      "preserving",
+      "preservation"
+    ],
+    "emoji": "🛡️📦",
+    "id": "gl355"
+  },
+  "prestige": {
+    "word": "prestige",
+    "definition": "respect and importance gained from having wealth or high status",
+    "variations": [
+      "prestige"
+    ],
+    "emoji": "✨🏅",
+    "id": "gl356"
+  },
+  "priest": {
+    "word": "priest",
+    "definition": "a religious leader who performs sacred duties",
+    "variations": [
+      "priest",
+      "priests"
+    ],
+    "emoji": "🙏⛪",
+    "id": "gl357"
+  },
+  "primary source": {
+    "word": "primary source",
+    "definition": "original information or evidence from someone who saw, made, or took part in an event",
+    "variations": [
+      "primary source",
+      "primary sources"
+    ],
+    "emoji": "📄🔎",
+    "id": "gl358"
+  },
+  "primate": {
+    "word": "primate",
+    "definition": "a type of mammal that includes humans, monkeys, and apes",
+    "variations": [
+      "primate",
+      "primates"
+    ],
+    "emoji": "🐒🦍",
+    "id": "gl359"
+  },
+  "privilege": {
+    "word": "privilege",
+    "definition": "a special advantage or right enjoyed by some people",
+    "variations": [
+      "privilege",
+      "privileges"
+    ],
+    "emoji": "⭐👑",
+    "id": "gl360"
+  },
+  "process": {
+    "word": "process",
+    "definition": "a series of actions or changes that happen over time",
+    "variations": [
+      "process",
+      "processes"
+    ],
+    "emoji": "🔄⏱️",
+    "id": "gl361"
+  },
+  "productive forces": {
+    "word": "productive forces",
+    "definition": "the combination of human labour and tools used in production",
+    "variations": [
+      "productive force",
+      "productive forces"
+    ],
+    "emoji": "⚙️💪",
+    "id": "gl362"
+  },
+  "prominent": {
+    "word": "prominent",
+    "definition": "important and well known",
+    "variations": [
+      "prominent",
+      "prominently"
+    ],
+    "emoji": "⭐👑",
+    "id": "gl363"
+  },
+  "property": {
+    "word": "property",
+    "definition": "things such as land or houses that a person owns",
+    "variations": [
+      "property",
+      "properties"
+    ],
+    "emoji": "🏠📍",
+    "id": "gl364"
+  },
+  "prosperity": {
+    "word": "prosperity",
+    "definition": "success and well-being, especially in having enough resources or wealth.",
+    "variations": [
+      "prosperity"
+    ],
+    "emoji": "🌟🌾",
+    "id": "gl365"
+  },
+  "protectorate": {
+    "word": "protectorate",
+    "definition": "a territory controlled and protected by a more powerful state",
+    "variations": [
+      "protectorate",
+      "protectorates"
+    ],
+    "emoji": "🗺️🏴",
+    "id": "gl366"
+  },
+  "province": {
+    "word": "province",
+    "definition": "a large area of a country or kingdom with its own local administration",
+    "variations": [
+      "province",
+      "provinces",
+      "provincial"
+    ],
+    "emoji": "🗺️🏘️",
+    "id": "gl367"
+  },
+  "provincial": {
+    "word": "provincial",
+    "definition": "relating to a province, which is a large area within a state or kingdom.",
+    "variations": [
+      "provincial"
+    ],
+    "emoji": "🗺️🏞️",
+    "id": "gl368"
+  },
+  "provincial governor": {
+    "word": "provincial governor",
+    "definition": "a person chosen to rule or manage a province on behalf of a king or central government",
+    "variations": [
+      "provincial governor",
+      "provincial governors",
+      "governor",
+      "governors"
+    ],
+    "emoji": "🏛️🗺️",
+    "id": "gl369"
+  },
+  "purify": {
+    "word": "purify",
+    "definition": "to make something clean or remove unwanted parts from it",
+    "variations": [
+      "purify",
+      "purifies",
+      "purified",
+      "purifying"
+    ],
+    "emoji": "✨🧪",
+    "id": "gl370"
+  },
+  "raiding": {
+    "word": "raiding",
+    "definition": "attacking a place suddenly to steal, capture, or destroy",
+    "variations": [
+      "raid",
+      "raids",
+      "raiding",
+      "raided"
+    ],
+    "emoji": "⚔️🔥",
+    "id": "gl371"
+  },
+  "raw material": {
+    "word": "raw material",
+    "definition": "a basic natural substance used to make other products",
+    "variations": [
+      "raw material",
+      "raw materials"
+    ],
+    "emoji": "🪵⛏️",
+    "id": "gl372"
+  },
+  "raw products": {
+    "word": "raw products",
+    "definition": "natural materials that have not yet been fully processed",
+    "variations": [
+      "raw product",
+      "raw products"
+    ],
+    "emoji": "🪵🧺",
+    "id": "gl373"
+  },
+  "rebel": {
+    "word": "rebel",
+    "definition": "to fight against a ruler or government; a person who does this",
+    "variations": [
+      "rebel",
+      "rebels",
+      "rebelled",
+      "rebelling",
+      "rebellion"
+    ],
+    "emoji": "⚔️✊",
+    "id": "gl374"
+  },
+  "regalia": {
+    "word": "regalia",
+    "definition": "special clothes or objects used as signs of power, honor, or tradition",
+    "variations": [
+      "regalia"
+    ],
+    "emoji": "👑🎖️",
+    "id": "gl375"
+  },
+  "regulation": {
+    "word": "regulation",
+    "definition": "an official rule that controls what people can do",
+    "variations": [
+      "regulation",
+      "regulations"
+    ],
+    "emoji": "📏📘",
+    "id": "gl376"
+  },
+  "relationship": {
+    "word": "relationship",
+    "definition": "the way two or more things are connected",
+    "variations": [
+      "relationship",
+      "relationships",
+      "related"
+    ],
+    "emoji": "🔗🤝",
+    "id": "gl377"
+  },
+  "reliability": {
+    "word": "reliability",
+    "definition": "the quality of being trustworthy and likely to be correct",
+    "variations": [
+      "reliability",
+      "reliable"
+    ],
+    "emoji": "✅🔍",
+    "id": "gl378"
+  },
+  "religious beliefs": {
+    "word": "religious beliefs",
+    "definition": "ideas that people have about God, gods, spirits, or religion",
+    "variations": [
+      "religious belief",
+      "religious beliefs"
+    ],
+    "emoji": "⛪🙏",
+    "id": "gl379"
+  },
+  "remains": {
+    "word": "remains",
+    "definition": "the parts left after a person, animal, or thing is gone",
+    "variations": [
+      "remain",
+      "remains",
+      "remained"
+    ],
+    "emoji": "🦴📍",
+    "id": "gl380"
+  },
+  "remnant": {
+    "word": "remnant",
+    "definition": "a small remaining part of something that was once larger",
+    "variations": [
+      "remnant",
+      "remnants"
+    ],
+    "emoji": "🧩📍",
+    "id": "gl381"
+  },
+  "remote": {
+    "word": "remote",
+    "definition": "far away from towns or easy travel",
+    "variations": [
+      "remote",
+      "remoter",
+      "remotest"
+    ],
+    "emoji": "🏞️🚶",
+    "id": "gl382"
+  },
+  "renounce": {
+    "word": "renounce",
+    "definition": "to formally give up a position, claim, or belief",
+    "variations": [
+      "renounce",
+      "renounced",
+      "renouncing",
+      "renunciation"
+    ],
+    "emoji": "👋📜",
+    "id": "gl383"
+  },
+  "rent": {
+    "word": "rent",
+    "definition": "payment made for using land, a house, or property owned by another person",
+    "variations": [
+      "rent",
+      "rents"
+    ],
+    "emoji": "💵🏠",
+    "id": "gl384"
+  },
+  "research": {
+    "word": "research",
+    "definition": "careful study done to discover new information",
+    "variations": [
+      "research",
+      "researcher",
+      "researchers"
+    ],
+    "emoji": "🔬📚",
+    "id": "gl385"
+  },
+  "residue": {
+    "word": "residue",
+    "definition": "a small amount of something left after the rest is removed",
+    "variations": [
+      "residue",
+      "residues"
+    ],
+    "emoji": "🧂剩️",
+    "id": "gl386"
+  },
+  "resistance": {
+    "word": "resistance",
+    "definition": "the act of fighting against or refusing to accept something",
+    "variations": [
+      "resistance",
+      "resist"
+    ],
+    "emoji": "✊🛡️",
+    "id": "gl387"
+  },
+  "responsible": {
+    "word": "responsible",
+    "definition": "showing care and good judgment in what you do",
+    "variations": [
+      "responsible",
+      "responsibility",
+      "responsibilities"
+    ],
+    "emoji": "✅🤝",
+    "id": "gl388"
+  },
+  "retrieve": {
+    "word": "retrieve",
+    "definition": "to find and get information from storage",
+    "variations": [
+      "retrieve",
+      "retrieved",
+      "retrieves",
+      "retrieving",
+      "retrieval"
+    ],
+    "emoji": "🔍📂",
+    "id": "gl389"
+  },
+  "revenue": {
+    "word": "revenue",
+    "definition": "money that a government or state receives, especially from taxes or trade",
+    "variations": [
+      "revenue",
+      "revenues"
+    ],
+    "emoji": "💰🏛️",
+    "id": "gl390"
+  },
+  "revolt": {
+    "word": "revolt",
+    "definition": "an action taken by people to fight against those in power.",
+    "variations": [
+      "revolt",
+      "revolts"
+    ],
+    "emoji": "✊🔥",
+    "id": "gl391"
+  },
+  "ritual": {
+    "word": "ritual",
+    "definition": "a set way of doing something, often for cultural or religious reasons",
+    "variations": [
+      "ritual",
+      "rituals"
+    ],
+    "emoji": "🕯️🙏",
+    "id": "gl392"
+  },
+  "riverine": {
+    "word": "riverine",
+    "definition": "related to a river or land near a river",
+    "variations": [
+      "riverine"
+    ],
+    "emoji": "🏞️💧",
+    "id": "gl393"
+  },
+  "rock shelter": {
+    "word": "rock shelter",
+    "definition": "a shallow space under a rock where people can live or hide",
+    "variations": [
+      "rock shelter",
+      "rock shelters"
+    ],
+    "emoji": "🪨🏕️",
+    "id": "gl394"
+  },
+  "ruler": {
+    "word": "ruler",
+    "definition": "a person who leads and controls a kingdom, state, or society",
+    "variations": [
+      "ruler",
+      "rulers"
+    ],
+    "emoji": "👑🏛️",
+    "id": "gl395"
+  },
+  "ruling clan": {
+    "word": "ruling clan",
+    "definition": "the family group that has the main political power in a kingdom or society",
+    "variations": [
+      "ruling clan",
+      "ruling clans"
+    ],
+    "emoji": "👨‍👩‍👧‍👦👑",
+    "id": "gl396"
+  },
+  "savannah": {
+    "word": "savannah",
+    "definition": "a grassland area with scattered trees, often found in warm regions",
+    "variations": [
+      "savannah",
+      "savannahs"
+    ],
+    "emoji": "🌾🌳",
+    "id": "gl397"
+  },
+  "scarcity": {
+    "word": "scarcity",
+    "definition": "a situation in which something is not enough or is hard to find",
+    "variations": [
+      "scarcity",
+      "scarcities"
+    ],
+    "emoji": "⚠️📉",
+    "id": "gl398"
+  },
+  "scraper": {
+    "word": "scraper",
+    "definition": "a tool used for scraping surfaces clean or smooth",
+    "variations": [
+      "scraper",
+      "scrapers"
+    ],
+    "emoji": "🪨🧰",
+    "id": "gl399"
+  },
+  "seasonal": {
+    "word": "seasonal",
+    "definition": "happening or grown during a particular time of the year",
+    "variations": [
+      "seasonal",
+      "seasonally"
+    ],
+    "emoji": "🗓️🌦️",
+    "id": "gl400"
+  },
+  "secondary source": {
+    "word": "secondary source",
+    "definition": "information written or created later by someone who did not directly experience the event",
+    "variations": [
+      "secondary source",
+      "secondary sources"
+    ],
+    "emoji": "📘📝",
+    "id": "gl401"
+  },
+  "sedentary": {
+    "word": "sedentary",
+    "definition": "staying in one place instead of moving around",
+    "variations": [
+      "sedentary"
+    ],
+    "emoji": "🏠📍",
+    "id": "gl402"
+  },
+  "self-awareness": {
+    "word": "self-awareness",
+    "definition": "understanding your own thoughts, feelings, and actions",
+    "variations": [
+      "self-awareness"
+    ],
+    "emoji": "🪞🧠",
+    "id": "gl403"
+  },
+  "self-dependence": {
+    "word": "self-dependence",
+    "definition": "the ability to take care of yourself without relying too much on others.",
+    "variations": [
+      "self-dependence"
+    ],
+    "emoji": "💪🚶",
+    "id": "gl404"
+  },
+  "self-governing": {
+    "word": "self-governing",
+    "definition": "able to rule itself without control from another government",
+    "variations": [
+      "self-governing",
+      "self-government"
+    ],
+    "emoji": "🏛️🗳️",
+    "id": "gl405"
+  },
+  "semi-arid": {
+    "word": "semi-arid",
+    "definition": "fairly dry, with only a small amount of rain",
+    "variations": [
+      "semi-arid"
+    ],
+    "emoji": "🌤️🏞️",
+    "id": "gl406"
+  },
+  "semi-centralised": {
+    "word": "semi-centralised",
+    "definition": "partly controlled by a central authority, but not completely.",
+    "variations": [
+      "semi-centralised"
+    ],
+    "emoji": "🏛️🧩",
+    "id": "gl407"
+  },
+  "semi-divine": {
+    "word": "semi-divine",
+    "definition": "seen as partly holy or god-like",
+    "variations": [
+      "semi-divine"
+    ],
+    "emoji": "👑✨",
+    "id": "gl408"
+  },
+  "seniority": {
+    "word": "seniority",
+    "definition": "higher rank or respect because of older age or longer experience.",
+    "variations": [
+      "seniority"
+    ],
+    "emoji": "⬆️👴",
+    "id": "gl409"
+  },
+  "serf": {
+    "word": "serf",
+    "definition": "a poor farmer in a feudal system who works on land owned by someone else",
+    "variations": [
+      "serf",
+      "serfs"
+    ],
+    "emoji": "🌾🙍",
+    "id": "gl410"
+  },
+  "settlement": {
+    "word": "settlement",
+    "definition": "a place where people establish a community and live",
+    "variations": [
+      "settlement",
+      "settlements"
+    ],
+    "emoji": "🏘️📍",
+    "id": "gl411"
+  },
+  "settlement pattern": {
+    "word": "settlement pattern",
+    "definition": "the way people build homes and live in an area",
+    "variations": [
+      "settlement pattern",
+      "settlement patterns"
+    ],
+    "emoji": "🏘️🗺️",
+    "id": "gl412"
+  },
+  "shaft": {
+    "word": "shaft",
+    "definition": "the long straight part of a spear or arrow",
+    "variations": [
+      "shaft",
+      "shafts"
+    ],
+    "emoji": "🏹🪵",
+    "id": "gl413"
+  },
+  "shifting cultivation": {
+    "word": "shifting cultivation",
+    "definition": "a type of farming in which people use land for some time and then move to another area to farm",
+    "variations": [
+      "shifting cultivation"
+    ],
+    "emoji": "🌿🚜",
+    "id": "gl414"
+  },
+  "signal": {
+    "word": "signal",
+    "definition": "a sign, action, or sound used to send information",
+    "variations": [
+      "signal",
+      "signals",
+      "signaling",
+      "signalling",
+      "signaled",
+      "signalled"
+    ],
+    "emoji": "🚩📡",
+    "id": "gl415"
+  },
+  "significance": {
+    "word": "significance",
+    "definition": "the importance of something",
+    "variations": [
+      "significance",
+      "significant"
+    ],
+    "emoji": "⭐❗",
+    "id": "gl416"
+  },
+  "skull": {
+    "word": "skull",
+    "definition": "the hard bone structure of the head that protects the brain",
+    "variations": [
+      "skull",
+      "skulls"
+    ],
+    "emoji": "💀🧠",
+    "id": "gl417"
+  },
+  "slag": {
+    "word": "slag",
+    "definition": "waste material left after metal has been separated from ore",
+    "variations": [
+      "slag",
+      "slags"
+    ],
+    "emoji": "🪨🏭",
+    "id": "gl418"
+  },
+  "slave": {
+    "word": "slave",
+    "definition": "a person who is owned by another person and forced to work",
+    "variations": [
+      "slave",
+      "slaves"
+    ],
+    "emoji": "⛓️🙍",
+    "id": "gl419"
+  },
+  "slave mode of production": {
+    "word": "slave mode of production",
+    "definition": "a system where enslaved people are used as labour to produce wealth for owners",
+    "variations": [
+      "slave mode of production",
+      "slave modes of production"
+    ],
+    "emoji": "⛓️⚒️",
+    "id": "gl420"
+  },
+  "slavery": {
+    "word": "slavery",
+    "definition": "a system in which people are owned and forced to work for others",
+    "variations": [
+      "slavery"
+    ],
+    "emoji": "⛓️⚠️",
+    "id": "gl421"
+  },
+  "smelted": {
+    "word": "smelted",
+    "definition": "heated strongly to get metal out of rock or ore",
+    "variations": [
+      "smelt",
+      "smelts",
+      "smelted",
+      "smelting"
+    ],
+    "emoji": "🔥⚒️",
+    "id": "gl422"
+  },
+  "smelting": {
+    "word": "smelting",
+    "definition": "the process of heating ore to remove metal from it",
+    "variations": [
+      "smelting",
+      "smelt",
+      "smelted"
+    ],
+    "emoji": "🔥⛓️",
+    "id": "gl423"
+  },
+  "smithery": {
+    "word": "smithery",
+    "definition": "the work of making metal items by heating and shaping metal.",
+    "variations": [
+      "smithery"
+    ],
+    "emoji": "⚒️🔥",
+    "id": "gl424"
+  },
+  "social organisation": {
+    "word": "social organisation",
+    "definition": "the way people in a society are arranged and work together",
+    "variations": [
+      "social organisation",
+      "social organisations"
+    ],
+    "emoji": "👥🏘️",
+    "id": "gl425"
+  },
+  "social system": {
+    "word": "social system",
+    "definition": "the set of rules, relationships, and ways of living in a society",
+    "variations": [
+      "social system",
+      "social systems"
+    ],
+    "emoji": "👥🤝",
+    "id": "gl426"
+  },
+  "society": {
+    "word": "society",
+    "definition": "a group of people living together in an organized way",
+    "variations": [
+      "society",
+      "societies"
+    ],
+    "emoji": "👥🏘️",
+    "id": "gl427"
+  },
+  "sodium bicarbonate": {
+    "word": "sodium bicarbonate",
+    "definition": "a chemical substance also called baking soda, sometimes used to reduce stomach acid",
+    "variations": [
+      "sodium bicarbonate"
+    ],
+    "emoji": "🧪⚪",
+    "id": "gl428"
+  },
+  "soil erosion": {
+    "word": "soil erosion",
+    "definition": "the wearing away or removal of top soil by water or wind",
+    "variations": [
+      "soil erosion"
+    ],
+    "emoji": "🌧️🟤",
+    "id": "gl429"
+  },
+  "solidify": {
+    "word": "solidify",
+    "definition": "to become hard or solid",
+    "variations": [
+      "solidify",
+      "solidifies",
+      "solidified",
+      "solidifying"
+    ],
+    "emoji": "🧊🔩",
+    "id": "gl430"
+  },
+  "source": {
+    "word": "source",
+    "definition": "a place, person, or thing from which information comes",
+    "variations": [
+      "source",
+      "sources"
+    ],
+    "emoji": "📖🔍",
+    "id": "gl431"
+  },
+  "sovereignty": {
+    "word": "sovereignty",
+    "definition": "the power of a state to govern itself without outside control.",
+    "variations": [
+      "sovereignty"
+    ],
+    "emoji": "👑🛡️",
+    "id": "gl432"
+  },
+  "sowing": {
+    "word": "sowing",
+    "definition": "the act of planting seeds in the ground",
+    "variations": [
+      "sowing",
+      "sow",
+      "sown"
+    ],
+    "emoji": "🌱🖐️",
+    "id": "gl433"
+  },
+  "spear": {
+    "word": "spear",
+    "definition": "a long weapon or tool with a sharp point",
+    "variations": [
+      "spear",
+      "spears"
+    ],
+    "emoji": "🗡️🏹",
+    "id": "gl434"
+  },
+  "specialisation": {
+    "word": "specialisation",
+    "definition": "the practice of focusing on one type of work or skill",
+    "variations": [
+      "specialisation",
+      "specialisations",
+      "specialise",
+      "specialised",
+      "specialising"
+    ],
+    "emoji": "🛠️🎯",
+    "id": "gl435"
+  },
+  "specialised": {
+    "word": "specialised",
+    "definition": "made or trained for a particular purpose",
+    "variations": [
+      "specialised",
+      "specialise",
+      "specialised",
+      "specialising",
+      "specialization"
+    ],
+    "emoji": "🎯🛠️",
+    "id": "gl436"
+  },
+  "species": {
+    "word": "species",
+    "definition": "a group of living things that are similar and can produce young of the same kind",
+    "variations": [
+      "species"
+    ],
+    "emoji": "🐾🌿",
+    "id": "gl437"
+  },
+  "specific": {
+    "word": "specific",
+    "definition": "clear and exact, not general",
+    "variations": [
+      "specific",
+      "specifically"
+    ],
+    "emoji": "🎯📌",
+    "id": "gl438"
+  },
+  "spinning": {
+    "word": "spinning",
+    "definition": "the process of making fibers into thread",
+    "variations": [
+      "spinning",
+      "spin",
+      "spun"
+    ],
+    "emoji": "🧵🌀",
+    "id": "gl439"
+  },
+  "spiritual": {
+    "word": "spiritual",
+    "definition": "related to religion, the soul, or sacred beliefs",
+    "variations": [
+      "spiritual",
+      "spiritually"
+    ],
+    "emoji": "✨🙏",
+    "id": "gl440"
+  },
+  "stability": {
+    "word": "stability",
+    "definition": "a condition of being steady, orderly, and not easily disturbed",
+    "variations": [
+      "stability",
+      "stable"
+    ],
+    "emoji": "⚖️🧱",
+    "id": "gl441"
+  },
+  "standing army": {
+    "word": "standing army",
+    "definition": "a permanent group of soldiers kept ready for war or defense.",
+    "variations": [
+      "standing army",
+      "standing armies"
+    ],
+    "emoji": "🪖🛡️",
+    "id": "gl442"
+  },
+  "state": {
+    "word": "state",
+    "definition": "a political organization with people, land, government, and authority over a territory.",
+    "variations": [
+      "state",
+      "states"
+    ],
+    "emoji": "🏛️🗺️",
+    "id": "gl443"
+  },
+  "state formation": {
+    "word": "state formation",
+    "definition": "the process through which a state develops and becomes organized.",
+    "variations": [
+      "state formation"
+    ],
+    "emoji": "🏗️🏛️",
+    "id": "gl444"
+  },
+  "stateless": {
+    "word": "stateless",
+    "definition": "without a formal state or central government",
+    "variations": [
+      "stateless"
+    ],
+    "emoji": "🚫🏛️👥",
+    "id": "gl445"
+  },
+  "stimulus": {
+    "word": "stimulus",
+    "definition": "something that helps cause growth, action, or development",
+    "variations": [
+      "stimulus",
+      "stimuli"
+    ],
+    "emoji": "⚡📈",
+    "id": "gl446"
+  },
+  "Stone Age": {
+    "word": "Stone Age",
+    "definition": "a time in history when humans mainly used stone to make tools and weapons",
+    "variations": [
+      "Stone Age",
+      "Stone Ages"
+    ],
+    "emoji": "🪨⏳",
+    "id": "gl447"
+  },
+  "subject": {
+    "word": "subject",
+    "definition": "a person who is ruled by a king, queen, or other leader",
+    "variations": [
+      "subject",
+      "subjects"
+    ],
+    "emoji": "👥👑",
+    "id": "gl448"
+  },
+  "subordinate": {
+    "word": "subordinate",
+    "definition": "lower in rank or under the authority of another person",
+    "variations": [
+      "subordinate",
+      "subordinates"
+    ],
+    "emoji": "⬇️👥",
+    "id": "gl449"
+  },
+  "succession": {
+    "word": "succession",
+    "definition": "the process of one person taking over leadership after another",
+    "variations": [
+      "succession",
+      "successions"
+    ],
+    "emoji": "👑➡️",
+    "id": "gl450"
+  },
+  "supreme": {
+    "word": "supreme",
+    "definition": "highest in rank, power, or importance",
+    "variations": [
+      "supreme",
+      "supremacy"
+    ],
+    "emoji": "👑⬆️",
+    "id": "gl451"
+  },
+  "surplus": {
+    "word": "surplus",
+    "definition": "an extra amount of something more than what is needed",
+    "variations": [
+      "surplus",
+      "surpluses"
+    ],
+    "emoji": "➕🌾",
+    "id": "gl452"
+  },
+  "surplus wealth": {
+    "word": "surplus wealth",
+    "definition": "extra goods or riches beyond basic needs",
+    "variations": [
+      "surplus wealth"
+    ],
+    "emoji": "💰➕",
+    "id": "gl453"
+  },
+  "survey": {
+    "word": "survey",
+    "definition": "a careful examination of an area to find information or objects",
+    "variations": [
+      "survey",
+      "surveys",
+      "surveyed",
+      "surveying"
+    ],
+    "emoji": "🧭🔎",
+    "id": "gl454"
+  },
+  "sustenance": {
+    "word": "sustenance",
+    "definition": "food, support, or anything needed to stay alive and continue living",
+    "variations": [
+      "sustenance"
+    ],
+    "emoji": "🍲🌱",
+    "id": "gl455"
+  },
+  "symbol": {
+    "word": "symbol",
+    "definition": "something that stands for or represents an idea or group",
+    "variations": [
+      "symbol",
+      "symbols"
+    ],
+    "emoji": "🔶👑",
+    "id": "gl456"
+  },
+  "taboo": {
+    "word": "taboo",
+    "definition": "a social or cultural action that people believe should not be done",
+    "variations": [
+      "taboo",
+      "taboos"
+    ],
+    "emoji": "🚫⚠️",
+    "id": "gl457"
+  },
+  "tax": {
+    "word": "tax",
+    "definition": "money people pay to a government or ruler",
+    "variations": [
+      "tax",
+      "taxes",
+      "taxed",
+      "taxation"
+    ],
+    "emoji": "💸🏛️",
+    "id": "gl458"
+  },
+  "tax collector": {
+    "word": "tax collector",
+    "definition": "a person whose job is to collect taxes from people",
+    "variations": [
+      "tax collector",
+      "tax collectors"
+    ],
+    "emoji": "💵📥",
+    "id": "gl459"
+  },
+  "technique": {
+    "word": "technique",
+    "definition": "a particular way of doing something",
+    "variations": [
+      "technique",
+      "techniques"
+    ],
+    "emoji": "🛠️📘",
+    "id": "gl460"
+  },
+  "technological": {
+    "word": "technological",
+    "definition": "related to tools, machines, and modern methods",
+    "variations": [
+      "technological",
+      "technology"
+    ],
+    "emoji": "💻⚙️",
+    "id": "gl461"
+  },
+  "technological development": {
+    "word": "technological development",
+    "definition": "progress in making and using tools, machines, or methods",
+    "variations": [
+      "technological development",
+      "technological developments"
+    ],
+    "emoji": "🛠️📈",
+    "id": "gl462"
+  },
+  "technology": {
+    "word": "technology",
+    "definition": "the use of tools, skills, and methods to do work or solve problems",
+    "variations": [
+      "technology",
+      "technologies"
+    ],
+    "emoji": "⚙️🛠️",
+    "id": "gl463"
+  },
+  "tenant": {
+    "word": "tenant",
+    "definition": "a person who uses land or property owned by another person and pays for it",
+    "variations": [
+      "tenant",
+      "tenants"
+    ],
+    "emoji": "🏡💰",
+    "id": "gl464"
+  },
+  "terrace": {
+    "word": "terrace",
+    "definition": "a flat step made on a hillside for farming",
+    "variations": [
+      "terrace",
+      "terraces",
+      "terraced",
+      "terracing"
+    ],
+    "emoji": "⛰️🌱",
+    "id": "gl465"
+  },
+  "territory": {
+    "word": "territory",
+    "definition": "an area of land controlled by a group, community, or state.",
+    "variations": [
+      "territory",
+      "territories"
+    ],
+    "emoji": "🗺️📍",
+    "id": "gl466"
+  },
+  "textile": {
+    "word": "textile",
+    "definition": "cloth or material made by weaving or similar methods",
+    "variations": [
+      "textile",
+      "textiles"
+    ],
+    "emoji": "🧵🪡",
+    "id": "gl467"
+  },
+  "theory": {
+    "word": "theory",
+    "definition": "an idea or explanation that helps people understand something",
+    "variations": [
+      "theory",
+      "theories"
+    ],
+    "emoji": "💡📘",
+    "id": "gl468"
+  },
+  "time chart": {
+    "word": "time chart",
+    "definition": "a chart that lists events and the dates when they happened",
+    "variations": [
+      "time chart",
+      "time charts"
+    ],
+    "emoji": "📋📅",
+    "id": "gl469"
+  },
+  "time graph": {
+    "word": "time graph",
+    "definition": "a graph used to show historical events and when they happened",
+    "variations": [
+      "time graph",
+      "time graphs"
+    ],
+    "emoji": "📊🕰️",
+    "id": "gl470"
+  },
+  "timeline": {
+    "word": "timeline",
+    "definition": "a line that shows events in the order they happened over time",
+    "variations": [
+      "timeline",
+      "timelines"
+    ],
+    "emoji": "📏📅",
+    "id": "gl471"
+  },
+  "tolerance": {
+    "word": "tolerance",
+    "definition": "respecting and accepting people whose beliefs or ways of life are different from yours",
+    "variations": [
+      "tolerance",
+      "tolerate",
+      "tolerated",
+      "tolerating"
+    ],
+    "emoji": "🤝🌍",
+    "id": "gl472"
+  },
+  "tourism": {
+    "word": "tourism",
+    "definition": "the activity of traveling to places for pleasure or learning",
+    "variations": [
+      "tourism",
+      "tourist",
+      "tourists"
+    ],
+    "emoji": "🧳🌍",
+    "id": "gl473"
+  },
+  "trade": {
+    "word": "trade",
+    "definition": "the buying and selling of goods",
+    "variations": [
+      "trade",
+      "trades",
+      "trading"
+    ],
+    "emoji": "💱🛒",
+    "id": "gl474"
+  },
+  "trade route": {
+    "word": "trade route",
+    "definition": "a path or direction used to move goods from one place to another for trade",
+    "variations": [
+      "trade route",
+      "trade routes"
+    ],
+    "emoji": "🛤️👜",
+    "id": "gl475"
+  },
+  "traditionalist": {
+    "word": "traditionalist",
+    "definition": "a person who follows old customs and beliefs",
+    "variations": [
+      "traditionalist",
+      "traditionalists",
+      "traditional"
+    ],
+    "emoji": "🪶📜",
+    "id": "gl476"
+  },
+  "transition": {
+    "word": "transition",
+    "definition": "change from one stage, condition, or system to another",
+    "variations": [
+      "transition",
+      "transitions"
+    ],
+    "emoji": "➡️🔄",
+    "id": "gl477"
+  },
+  "transmitting": {
+    "word": "transmitting",
+    "definition": "passing something such as knowledge, skills, or values from one person to another.",
+    "variations": [
+      "transmit",
+      "transmits",
+      "transmitting",
+      "transmitted"
+    ],
+    "emoji": "📚➡️",
+    "id": "gl478"
+  },
+  "treasurer": {
+    "word": "treasurer",
+    "definition": "a person in charge of keeping and managing money",
+    "variations": [
+      "treasurer",
+      "treasurers"
+    ],
+    "emoji": "💰📦",
+    "id": "gl479"
+  },
+  "tributary": {
+    "word": "tributary",
+    "definition": "a smaller river or stream that flows into a larger river",
+    "variations": [
+      "tributary",
+      "tributaries"
+    ],
+    "emoji": "🏞️💦",
+    "id": "gl480"
+  },
+  "tribute": {
+    "word": "tribute",
+    "definition": "payment or goods given to a ruler as a sign of loyalty or submission",
+    "variations": [
+      "tribute",
+      "tributes"
+    ],
+    "emoji": "💰🎁",
+    "id": "gl481"
+  },
+  "trypanosomiasis": {
+    "word": "trypanosomiasis",
+    "definition": "a disease spread by tsetse flies that can affect people and animals",
+    "variations": [
+      "trypanosomiasis"
+    ],
+    "emoji": "🪰🤒",
+    "id": "gl482"
+  },
+  "uniformity": {
+    "word": "uniformity",
+    "definition": "being the same in form, type, or standard.",
+    "variations": [
+      "uniformity"
+    ],
+    "emoji": "🟰📐",
+    "id": "gl483"
+  },
+  "unifying factor": {
+    "word": "unifying factor",
+    "definition": "something that brings people together and makes them feel connected",
+    "variations": [
+      "unifying factor",
+      "unifying factors"
+    ],
+    "emoji": "🤝🧩",
+    "id": "gl484"
+  },
+  "unity": {
+    "word": "unity",
+    "definition": "the state of being joined together as one",
+    "variations": [
+      "unity",
+      "united"
+    ],
+    "emoji": "🤝🧩",
+    "id": "gl485"
+  },
+  "upkeep": {
+    "word": "upkeep",
+    "definition": "the support or cost needed to maintain something or someone",
+    "variations": [
+      "upkeep"
+    ],
+    "emoji": "💰🧺",
+    "id": "gl486"
+  },
+  "upright": {
+    "word": "upright",
+    "definition": "standing straight up, not bent over",
+    "variations": [
+      "upright"
+    ],
+    "emoji": "🧍⬆️",
+    "id": "gl487"
+  },
+  "utensil": {
+    "word": "utensil",
+    "definition": "a tool used in the home, especially for cooking or eating",
+    "variations": [
+      "utensil",
+      "utensils"
+    ],
+    "emoji": "🍴🥄",
+    "id": "gl488"
+  },
+  "vandalism": {
+    "word": "vandalism",
+    "definition": "the act of damaging property on purpose",
+    "variations": [
+      "vandalism"
+    ],
+    "emoji": "🚫🧱",
+    "id": "gl489"
+  },
+  "vassal": {
+    "word": "vassal",
+    "definition": "a state or person under the control of a more powerful ruler",
+    "variations": [
+      "vassal",
+      "vassals",
+      "vassal state",
+      "vassal states"
+    ],
+    "emoji": "👑↘️",
+    "id": "gl490"
+  },
+  "vassal state": {
+    "word": "vassal state",
+    "definition": "a smaller state controlled by or loyal to a stronger state",
+    "variations": [
+      "vassal state",
+      "vassal states",
+      "vassal",
+      "vassals"
+    ],
+    "emoji": "🏴🤝",
+    "id": "gl491"
+  },
+  "vein": {
+    "word": "vein",
+    "definition": "a line or layer of mineral inside rock",
+    "variations": [
+      "vein",
+      "veins"
+    ],
+    "emoji": "🪨✨",
+    "id": "gl492"
+  },
+  "volcanic ash": {
+    "word": "volcanic ash",
+    "definition": "fine dust from a volcano that falls to the ground after an eruption",
+    "variations": [
+      "volcanic ash",
+      "volcanic ashes"
+    ],
+    "emoji": "🌋灰",
+    "id": "gl493"
+  },
+  "warfare": {
+    "word": "warfare",
+    "definition": "the activity of fighting in wars",
+    "variations": [
+      "warfare"
+    ],
+    "emoji": "⚔️🛡️",
+    "id": "gl494"
+  },
+  "weaving": {
+    "word": "weaving",
+    "definition": "the process of crossing threads or materials together to make cloth or baskets",
+    "variations": [
+      "weaving",
+      "weave",
+      "woven",
+      "weaves"
+    ],
+    "emoji": "🧶🧺",
+    "id": "gl495"
+  },
+  "written record": {
+    "word": "written record",
+    "definition": "a document that gives information about past events",
+    "variations": [
+      "written record",
+      "written records"
+    ],
+    "emoji": "✍️📜",
+    "id": "gl496"
+  }
+}
