@@ -1,11 +1,11 @@
 [
   {
     "section_id": "cover_front",
-    "href": "cover_front.html"
+    "href": "index.html"
   },
   {
     "section_id": "pg001_sec001",
-    "href": "index.html",
+    "href": "cover.html",
     "page_number": 1
   },
   {
