@@ -8887,12 +8887,12 @@ span[data-word-indices].bg-yellow-300 * {
    on the element keeps priority; fluid between the mobile and desktop targets
    via clamp(). Edit on the Fonts tab. */
 @layer components {
-.adt-h1 { font-size: 16px; line-height: 1.2; }
-.adt-h2 { font-size: 16px; line-height: 1.2; }
-.adt-h3 { font-size: 16px; line-height: 1.2; }
-.adt-h4 { font-size: 16px; line-height: 1.2; }
-.adt-h5 { font-size: 16px; line-height: 1.2; }
-.adt-h6 { font-size: 16px; line-height: 1.2; }
+.adt-h1 { font-size: clamp(1.75rem, 2.5vw, 2rem); line-height: 1.2; }
+.adt-h2 { font-size: clamp(1.375rem, 2.1vw, 1.5rem); line-height: 1.25; }
+.adt-h3 { font-size: clamp(1.125rem, 1.75vw, 1.25rem); line-height: 1.3; }
+.adt-h4 { font-size: 1.125rem; line-height: 1.35; }
+.adt-h5 { font-size: 1.0625rem; line-height: 1.4; }
+.adt-h6 { font-size: 1rem; line-height: 1.4; }
 .adt-body { font-size: 16px; line-height: 1.55; }
 .adt-caption { font-size: 16px; line-height: 1.4; }
 
@@ -8908,4 +8908,19 @@ math mtable { line-height: normal; }
 .whitespace-pre-wrap math, .whitespace-pre math, [class*="leading-"] math { line-height: normal; white-space: normal; }
 /* Wide sums scroll instead of overflowing the reading column. */
 math[display="block"] { display: block math; overflow-x: auto; max-width: 100%; }
+}
+
+/*
+ * Book-wide reading layout normalisation.
+ * Tailwind's container utility constrains width at larger breakpoints but
+ * does not center itself. Every page uses the same content shell, so this
+ * centers all constrained reading canvases without altering their internal
+ * prose, table, figure, map, or activity alignment.
+ */
+#content {
+  font-size: 16px;
+}
+
+#content.container {
+  margin-inline: auto;
 }
