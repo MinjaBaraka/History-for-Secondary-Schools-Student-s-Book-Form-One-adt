@@ -10,15 +10,457 @@
     <link href="./content/tailwind_output.css" rel="stylesheet">
     <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
     <link href="./assets/fonts.css" rel="stylesheet">
+    <style>
+      .pg115-page {
+        margin: 0 auto;
+        max-width: 68rem;
+        padding: 3rem 1.5rem 4rem;
+      }
+
+      .pg115-exercise {
+        position: relative;
+        margin: 2.5rem auto 0;
+        max-width: 54rem;
+        border: 1px solid #86d9af;
+        border-radius: 0 1.5rem 1.5rem;
+        background: #fffefb;
+        padding: 4.1rem 3.5rem 3rem;
+        box-shadow: 0 8px 22px rgba(6, 95, 70, .06);
+      }
+
+      .pg115-title-ribbon {
+        position: absolute;
+        top: -1.15rem;
+        left: clamp(1rem, 7vw, 4.75rem);
+        margin: 0;
+        min-width: min(26rem, calc(100% - 2rem));
+        border: 1px solid #4aa76f;
+        border-radius: 999px;
+        background: linear-gradient(90deg, #059669 0%, #86cfa8 72%, #fffefb 100%);
+        color: #12211a;
+        padding: .55rem 1.35rem;
+        font-size: clamp(1.35rem, 3vw, 1.72rem);
+        line-height: 1.15;
+      }
+
+      .pg115-prompt {
+        display: grid;
+        grid-template-columns: auto 1fr;
+        gap: .85rem;
+        margin: 0 0 1.15rem;
+        color: #1f2937;
+      }
+
+      .pg115-table-scroll {
+        overflow-x: auto;
+        padding: .1rem;
+      }
+
+      .pg115-match-table {
+        width: 100%;
+        min-width: 40rem;
+        border-collapse: collapse;
+        table-layout: fixed;
+        color: #171717;
+      }
+
+      .pg115-match-table th,
+      .pg115-match-table td {
+        border: 1px solid #10b981;
+      }
+
+      .pg115-match-table th {
+        background: #93cfaf;
+        padding: .65rem .75rem;
+        text-align: left;
+        font-size: clamp(1.12rem, 2.3vw, 1.35rem);
+        line-height: 1.2;
+      }
+
+      .pg115-match-table td {
+        min-height: 3.25rem;
+        padding: .3rem .65rem;
+        vertical-align: middle;
+        font-size: clamp(1rem, 2vw, 1.22rem);
+        line-height: 1.3;
+      }
+
+      .pg115-state {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        gap: .5rem;
+        min-height: 2.55rem;
+        border-radius: .25rem;
+        padding: .1rem;
+        transition: background-color .16s ease, box-shadow .16s ease;
+      }
+
+      .pg115-state > span {
+        min-width: 0;
+      }
+
+      .pg115-match-select {
+        width: 6.75rem;
+        flex: 0 0 auto;
+        border: 1px solid #62a985;
+        border-radius: .35rem;
+        background: #fff;
+        color: #18261e;
+        padding: .34rem .5rem;
+        font: inherit;
+        font-size: .86rem;
+        line-height: 1.2;
+      }
+
+      .pg115-match-select:focus-visible,
+      .pg115-actions button:focus-visible,
+      .pg115-response:focus-visible {
+        outline: 3px solid #0369a1;
+        outline-offset: 2px;
+      }
+
+      .pg115-state.is-correct {
+        background: #ecfdf5;
+        box-shadow: inset 0 0 0 2px #16a34a;
+      }
+
+      .pg115-state.is-incorrect,
+      .pg115-state.is-missing {
+        background: #fff7ed;
+        box-shadow: inset 0 0 0 2px #dc2626;
+      }
+
+      .pg115-location {
+        display: block;
+        padding: .26rem .15rem;
+      }
+
+      .pg115-actions {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        gap: 1rem;
+        margin-top: 1rem;
+      }
+
+      .pg115-reset {
+        border: 1px solid #2c8a62;
+        border-radius: .45rem;
+        background: #fff;
+        color: #166534;
+        padding: .48rem .85rem;
+        font: inherit;
+        font-weight: 600;
+        cursor: pointer;
+      }
+
+      .pg115-match-feedback {
+        min-height: 1.35rem;
+        margin: 0;
+        color: #14532d;
+        font-weight: 600;
+      }
+
+      .pg115-open-responses {
+        display: grid;
+        gap: 1.5rem;
+        margin-top: 2rem;
+      }
+
+      .pg115-open-question {
+        display: grid;
+        grid-template-columns: auto 1fr;
+        gap: .8rem;
+      }
+
+      .pg115-open-question > div {
+        min-width: 0;
+      }
+
+      .pg115-response {
+        display: block;
+        width: 100%;
+        min-height: 5.5rem;
+        margin-top: .65rem;
+        resize: vertical;
+        border: 1px solid #a7d6bc;
+        border-radius: .45rem;
+        background: #fff;
+        padding: .65rem .75rem;
+        font: inherit;
+      }
+
+      @media (max-width: 640px) {
+        .pg115-page {
+          padding: 2.5rem .75rem 3rem;
+        }
+
+        .pg115-exercise {
+          margin-top: 2rem;
+          border-radius: 0 1rem 1rem;
+          padding: 3.75rem 1rem 2rem;
+        }
+
+        .pg115-title-ribbon {
+          left: .75rem;
+          min-width: calc(100% - 1.5rem);
+        }
+
+        .pg115-actions {
+          align-items: flex-start;
+          flex-direction: column-reverse;
+        }
+      }
+    </style>
 </head>
 
 <body class="min-h-screen flex items-center justify-center">
     <main class="w-full">
-      <div id="content" class="container mx-auto max-w-5xl bg-white rounded-lg px-24 max-lg:px-12 max-sm:px-6 pt-12 pb-12 opacity-0"><section data-section-type="activity_matching" data-section-id="pg115_sec001" class="max-w-6xl mx-auto"><h1 class="adt-h2 font-bold mb-4 text-amber-700" data-id="pg115_n0004">Revision exercise 7</h1><div class="adt-body mb-8 flex items-start gap-3"><i class="fas fa-pen-to-square text-blue-700 mr-2"></i><span data-id="pg115_n0005">1.</span><span data-id="pg115_n0006">Match the centralised states in Column A with its corresponding geographical location in Column B.</span></div><div class="grid grid-cols-2 gap-4 mb-2 max-sm:grid-cols-1"><span class="inline-block bg-emerald-100 text-emerald-900 font-semibold px-4 py-2 rounded-lg" data-id="pg115_n0010">Column A</span><span class="inline-block bg-cyan-100 text-cyan-900 font-semibold px-4 py-2 rounded-lg" data-id="pg115_n0012">Column B</span></div><div class="flex flex-row max-sm:flex-col items-start gap-4 mb-6"><div class="grow grid grid-cols-1 gap-3 text-left"><div class="bg-yellow-100 p-3 rounded-md shadow-sm activity-item" data-activity-item="item-1" data-aria-id="aria-pg115-1" data-id="pg115_n0015" draggable="true" tabindex="0" role="button" aria-label="Item (i) Kongo Kingdom" id="item-1">(i) Kongo Kingdom</div><div class="bg-teal-50 border border-gray-300 p-4 rounded-lg text-center dropzone" data-aria-id="aria-pg115-dz1" tabindex="0" role="button" aria-label="Drop zone for A. West Africa" id="target1"><span class="block font-semibold text-sky-800" data-id="pg115_n0017">A. West Africa</span><div id="dropzone-1" class="dropzone-slot border-t border-gray-200 mt-4 pt-2" aria-live="polite"></div></div><div class="bg-teal-100 p-3 rounded-md shadow-sm activity-item" data-activity-item="item-2" data-aria-id="aria-pg115-2" data-id="pg115_n0020" draggable="true" tabindex="0" role="button" aria-label="Item (ii) Oyo Kingdom" id="item-2">(ii) Oyo Kingdom</div><div class="bg-blue-50 border border-gray-300 p-4 rounded-lg text-center dropzone" data-aria-id="aria-pg115-dz2" tabindex="0" role="button" aria-label="Drop zone for B. Central Africa" id="target2"><span class="block font-semibold text-sky-800" data-id="pg115_n0022">B. Central Africa</span><div id="dropzone-2" class="dropzone-slot border-t border-gray-200 mt-4 pt-2" aria-live="polite"></div></div><div class="bg-pink-100 p-3 rounded-md shadow-sm activity-item" data-activity-item="item-3" data-aria-id="aria-pg115-3" data-id="pg115_n0025" draggable="true" tabindex="0" role="button" aria-label="Item (iii) Buganda Kingdom" id="item-3">(iii) Buganda Kingdom</div><div class="bg-cyan-50 border border-gray-300 p-4 rounded-lg text-center dropzone" data-aria-id="aria-pg115-dz3" tabindex="0" role="button" aria-label="Drop zone for C. East Africa" id="target3"><span class="block font-semibold text-sky-800" data-id="pg115_n0027">C. East Africa</span><div id="dropzone-3" class="dropzone-slot border-t border-gray-200 mt-4 pt-2" aria-live="polite"></div></div><div class="bg-orange-100 p-3 rounded-md shadow-sm activity-item" data-activity-item="item-4" data-aria-id="aria-pg115-4" data-id="pg115_n0030" draggable="true" tabindex="0" role="button" aria-label="Item (iv) Mwenemutapa Kingdom" id="item-4">(iv) Mwenemutapa Kingdom</div><div class="bg-lime-50 border border-gray-300 p-4 rounded-lg text-center dropzone" data-aria-id="aria-pg115-dz4" tabindex="0" role="button" aria-label="Drop zone for D. Southern Africa" id="target4"><span class="block font-semibold text-sky-800" data-id="pg115_n0032">D. Southern Africa</span><div id="dropzone-4" class="dropzone-slot border-t border-gray-200 mt-4 pt-2" aria-live="polite"></div></div><div class="bg-blue-200 p-3 rounded-md shadow-sm activity-item" data-activity-item="item-5" data-aria-id="aria-pg115-5" data-id="pg115_n0035" draggable="true" tabindex="0" role="button" aria-label="Item (v) Ghana Empire" id="item-5">(v) Ghana Empire</div><div class="bg-amber-50 border border-gray-300 p-4 rounded-lg text-center dropzone" data-aria-id="aria-pg115-dz5" tabindex="0" role="button" aria-label="Drop zone for E. North Africa" id="target5"><span class="block font-semibold text-sky-800" data-id="pg115_n0037">E. North Africa</span><div id="dropzone-5" class="dropzone-slot border-t border-gray-200 mt-4 pt-2" aria-live="polite"></div></div><div class="bg-green-100 p-3 rounded-md shadow-sm activity-item" data-activity-item="item-6" data-aria-id="aria-pg115-6" data-id="pg115_n0040" draggable="true" tabindex="0" role="button" aria-label="Item (vi) Lunda Kingdom" id="item-6">(vi) Lunda Kingdom</div><div class="bg-rose-50 border border-gray-300 p-4 rounded-lg text-center dropzone" data-aria-id="aria-pg115-dz6" tabindex="0" role="button" aria-label="Drop zone for F. North East Africa" id="target6"><span class="block font-semibold text-sky-800" data-id="pg115_n0042">F. North East Africa</span><div id="dropzone-6" class="dropzone-slot border-t border-gray-200 mt-4 pt-2" aria-live="polite"></div></div><div class="bg-purple-100 p-3 rounded-md shadow-sm activity-item" data-activity-item="item-7" data-aria-id="aria-pg115-7" data-id="pg115_n0045" draggable="true" tabindex="0" role="button" aria-label="Item (vii) Zulu Kingdom" id="item-7">(vii) Zulu Kingdom</div><div class="bg-slate-50 border border-gray-300 p-4 rounded-lg text-center dropzone" data-aria-id="aria-pg115-dz7" tabindex="0" role="button" aria-label="Drop zone for G. West South Africa" id="target7"><span class="block font-semibold text-sky-800" data-id="pg115_n0047">G. West South Africa</span><div id="dropzone-7" class="dropzone-slot border-t border-gray-200 mt-4 pt-2" aria-live="polite"></div></div><div class="bg-indigo-50 border border-gray-300 p-4 rounded-lg text-center dropzone" data-aria-id="aria-pg115-dz8" tabindex="0" role="button" aria-label="Drop zone for H. South West Africa" id="target8"><span class="block font-semibold text-sky-800" data-id="pg115_n0051">H. South West Africa</span><div id="dropzone-8" class="dropzone-slot border-t border-gray-200 mt-4 pt-2" aria-live="polite"></div></div></div><div class="w-64 max-sm:w-full"><label class="block mb-2" for="response-1"><span class="sr-only" aria-hidden="true">1</span></label><select id="response-1" class="w-full border border-gray-300 rounded-lg p-3" aria-label="Answer for matching activity"><option aria-hidden="true"></option></select></div></div><div class="mt-6 text-center"><span id="feedback" class="mt-4 adt-body font-semibold block" aria-live="polite" aria-hidden="true"></span></div><div class="mt-10 space-y-6"><div class="flex items-start gap-3"><span data-id="pg115_n0052">2.</span><div class="flex-1"><span class="block mb-2" data-id="pg115_n0053">Analyse the unique characteristics of pre-colonial state formation in East Africa.</span><textarea class="w-full min-h-28 border border-gray-300 rounded-lg p-3" aria-label="Answer for question 2"></textarea></div></div><div class="flex items-start gap-3"><span data-id="pg115_n0054">3.</span><div class="flex-1"><span class="block mb-2" data-id="pg115_n0055">How did geographical factors lead to the rise and fall of states in pre-colonial Africa?</span><textarea class="w-full min-h-28 border border-gray-300 rounded-lg p-3" aria-label="Answer for question 3"></textarea></div></div><div class="flex items-start gap-3"><span data-id="pg115_n0056">4.</span><div class="flex-1"><span class="block mb-2" data-id="pg115_n0057">Briefly explain how Boers caused the fall of the Zulu Kingdom.</span><textarea class="w-full min-h-24 border border-gray-300 rounded-lg p-3" aria-label="Answer for question 4"></textarea></div></div><div class="flex items-start gap-3"><span data-id="pg115_n0058">5.</span><div class="flex-1"><span class="block mb-2" data-id="pg115_n0059">What lessons can Tanzania learn from the factors for the decline of centralised states in pre-colonial African societies?</span><textarea class="w-full min-h-28 border border-gray-300 rounded-lg p-3" aria-label="Answer for question 5"></textarea></div></div></div></section></div>
+      <div id="content" class="container opacity-0">
+        <section data-section-type="activity_custom_matching" data-section-id="pg115_sec001" class="pg115-page" aria-labelledby="pg115-title">
+          <div class="pg115-exercise">
+            <h1 id="pg115-title" class="pg115-title-ribbon font-bold" data-id="pg115_n0004">Revision exercise 7</h1>
+
+            <div class="pg115-prompt adt-body">
+              <span data-id="pg115_n0005">1.</span>
+              <span data-id="pg115_n0006">Match the centralised states in Column A with its corresponding geographical location in Column B.</span>
+            </div>
+
+            <div class="pg115-table-scroll" aria-label="Matching table">
+              <table class="pg115-match-table">
+                <caption class="sr-only">Match each centralised state in Column A to its geographical location in Column B.</caption>
+                <colgroup>
+                  <col style="width: 56%;">
+                  <col style="width: 44%;">
+                </colgroup>
+                <thead>
+                  <tr>
+                    <th scope="col"><span data-id="pg115_n0010">Column A</span></th>
+                    <th scope="col"><span data-id="pg115_n0012">Column B</span></th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td>
+                      <div class="pg115-state" id="item-1">
+                        <span data-id="pg115_n0015">(i) Kongo Kingdom</span>
+                        <label class="sr-only" for="response-1">Choose the location for Kongo Kingdom</label>
+                        <select id="response-1" class="pg115-match-select" data-activity-item="item-1" data-aria-id="aria-pg115-1" data-pg115-match aria-label="Choose the location for Kongo Kingdom">
+                          <option value="">Choose</option><option value="A">A</option><option value="B">B</option><option value="C">C</option><option value="D">D</option><option value="E">E</option><option value="F">F</option><option value="G">G</option><option value="H">H</option>
+                        </select>
+                      </div>
+                    </td>
+                    <td id="target1" data-aria-id="aria-pg115-dz1"><span class="pg115-location" id="dropzone-1" data-id="pg115_n0017">A. West Africa</span></td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <div class="pg115-state" id="item-2">
+                        <span data-id="pg115_n0020">(ii) Oyo Kingdom</span>
+                        <label class="sr-only" for="response-2">Choose the location for Oyo Kingdom</label>
+                        <select id="response-2" class="pg115-match-select" data-activity-item="item-2" data-aria-id="aria-pg115-2" data-pg115-match aria-label="Choose the location for Oyo Kingdom">
+                          <option value="">Choose</option><option value="A">A</option><option value="B">B</option><option value="C">C</option><option value="D">D</option><option value="E">E</option><option value="F">F</option><option value="G">G</option><option value="H">H</option>
+                        </select>
+                      </div>
+                    </td>
+                    <td id="target2" data-aria-id="aria-pg115-dz2"><span class="pg115-location" id="dropzone-2" data-id="pg115_n0022">B. Central Africa</span></td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <div class="pg115-state" id="item-3">
+                        <span data-id="pg115_n0025">(iii) Buganda Kingdom</span>
+                        <label class="sr-only" for="response-3">Choose the location for Buganda Kingdom</label>
+                        <select id="response-3" class="pg115-match-select" data-activity-item="item-3" data-aria-id="aria-pg115-3" data-pg115-match aria-label="Choose the location for Buganda Kingdom">
+                          <option value="">Choose</option><option value="A">A</option><option value="B">B</option><option value="C">C</option><option value="D">D</option><option value="E">E</option><option value="F">F</option><option value="G">G</option><option value="H">H</option>
+                        </select>
+                      </div>
+                    </td>
+                    <td id="target3" data-aria-id="aria-pg115-dz3"><span class="pg115-location" id="dropzone-3" data-id="pg115_n0027">C. East Africa</span></td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <div class="pg115-state" id="item-4">
+                        <span data-id="pg115_n0030">(iv) Mwenemutapa Kingdom</span>
+                        <label class="sr-only" for="response-4">Choose the location for Mwenemutapa Kingdom</label>
+                        <select id="response-4" class="pg115-match-select" data-activity-item="item-4" data-aria-id="aria-pg115-4" data-pg115-match aria-label="Choose the location for Mwenemutapa Kingdom">
+                          <option value="">Choose</option><option value="A">A</option><option value="B">B</option><option value="C">C</option><option value="D">D</option><option value="E">E</option><option value="F">F</option><option value="G">G</option><option value="H">H</option>
+                        </select>
+                      </div>
+                    </td>
+                    <td id="target4" data-aria-id="aria-pg115-dz4"><span class="pg115-location" id="dropzone-4" data-id="pg115_n0032">D. Southern Africa</span></td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <div class="pg115-state" id="item-5">
+                        <span data-id="pg115_n0035">(v) Ghana Empire</span>
+                        <label class="sr-only" for="response-5">Choose the location for Ghana Empire</label>
+                        <select id="response-5" class="pg115-match-select" data-activity-item="item-5" data-aria-id="aria-pg115-5" data-pg115-match aria-label="Choose the location for Ghana Empire">
+                          <option value="">Choose</option><option value="A">A</option><option value="B">B</option><option value="C">C</option><option value="D">D</option><option value="E">E</option><option value="F">F</option><option value="G">G</option><option value="H">H</option>
+                        </select>
+                      </div>
+                    </td>
+                    <td id="target5" data-aria-id="aria-pg115-dz5"><span class="pg115-location" id="dropzone-5" data-id="pg115_n0037">E. North Africa</span></td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <div class="pg115-state" id="item-6">
+                        <span data-id="pg115_n0040">(vi) Lunda Kingdom</span>
+                        <label class="sr-only" for="response-6">Choose the location for Lunda Kingdom</label>
+                        <select id="response-6" class="pg115-match-select" data-activity-item="item-6" data-aria-id="aria-pg115-6" data-pg115-match aria-label="Choose the location for Lunda Kingdom">
+                          <option value="">Choose</option><option value="A">A</option><option value="B">B</option><option value="C">C</option><option value="D">D</option><option value="E">E</option><option value="F">F</option><option value="G">G</option><option value="H">H</option>
+                        </select>
+                      </div>
+                    </td>
+                    <td id="target6" data-aria-id="aria-pg115-dz6"><span class="pg115-location" id="dropzone-6" data-id="pg115_n0042">F. North East Africa</span></td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <div class="pg115-state" id="item-7">
+                        <span data-id="pg115_n0045">(vii) Zulu Kingdom</span>
+                        <label class="sr-only" for="response-7">Choose the location for Zulu Kingdom</label>
+                        <select id="response-7" class="pg115-match-select" data-activity-item="item-7" data-aria-id="aria-pg115-7" data-pg115-match aria-label="Choose the location for Zulu Kingdom">
+                          <option value="">Choose</option><option value="A">A</option><option value="B">B</option><option value="C">C</option><option value="D">D</option><option value="E">E</option><option value="F">F</option><option value="G">G</option><option value="H">H</option>
+                        </select>
+                      </div>
+                    </td>
+                    <td id="target7" data-aria-id="aria-pg115-dz7"><span class="pg115-location" id="dropzone-7" data-id="pg115_n0047">G. West South Africa</span></td>
+                  </tr>
+                  <tr>
+                    <td aria-hidden="true"></td>
+                    <td id="target8" data-aria-id="aria-pg115-dz8"><span class="pg115-location" id="dropzone-8" data-id="pg115_n0051">H. South West Africa</span></td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+
+            <div class="pg115-actions">
+              <p id="pg115-match-feedback" class="pg115-match-feedback" aria-live="polite"></p>
+              <button class="pg115-reset" type="button" data-pg115-reset>Reset answers</button>
+            </div>
+
+            <div class="pg115-open-responses adt-body">
+              <div class="pg115-open-question">
+                <span data-id="pg115_n0052">2.</span>
+                <div>
+                  <span data-id="pg115_n0053">Analyse the unique characteristics of pre-colonial state formation in East Africa.</span>
+                  <textarea class="pg115-response" aria-label="Answer for question 2"></textarea>
+                </div>
+              </div>
+              <div class="pg115-open-question">
+                <span data-id="pg115_n0054">3.</span>
+                <div>
+                  <span data-id="pg115_n0055">How did geographical factors lead to the rise and fall of states in pre-colonial Africa?</span>
+                  <textarea class="pg115-response" aria-label="Answer for question 3"></textarea>
+                </div>
+              </div>
+              <div class="pg115-open-question">
+                <span data-id="pg115_n0056">4.</span>
+                <div>
+                  <span data-id="pg115_n0057">Briefly explain how Boers caused the fall of the Zulu Kingdom.</span>
+                  <textarea class="pg115-response" aria-label="Answer for question 4"></textarea>
+                </div>
+              </div>
+              <div class="pg115-open-question">
+                <span data-id="pg115_n0058">5.</span>
+                <div>
+                  <span data-id="pg115_n0059">What lessons can Tanzania learn from the factors for the decline of centralised states in pre-colonial African societies?</span>
+                  <textarea class="pg115-response" aria-label="Answer for question 5"></textarea>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+      </div>
     </main>
 
     <script type="text/javascript">
-        window.correctAnswers = JSON.parse('{"item-1":"dropzone-2","item-2":"dropzone-1","item-3":"dropzone-3","item-4":"dropzone-4","item-5":"dropzone-1","item-6":"dropzone-2","item-7":"dropzone-4"}');
+      window.correctAnswers = JSON.parse('{"item-1":"dropzone-2","item-2":"dropzone-1","item-3":"dropzone-3","item-4":"dropzone-4","item-5":"dropzone-1","item-6":"dropzone-2","item-7":"dropzone-4"}');
+
+      (function () {
+        const section = document.querySelector('[data-section-id="pg115_sec001"]');
+        if (!section) return;
+
+        const correct = {
+          "item-1": "B",
+          "item-2": "A",
+          "item-3": "C",
+          "item-4": "D",
+          "item-5": "A",
+          "item-6": "B",
+          "item-7": "D"
+        };
+        const selects = Array.from(section.querySelectorAll('select[data-pg115-match]'));
+        const feedback = section.querySelector('#pg115-match-feedback');
+        const reset = section.querySelector('[data-pg115-reset]');
+        let completed = false;
+
+        function clearVerdict(select) {
+          const state = select.closest('.pg115-state');
+          state?.classList.remove('is-correct', 'is-incorrect', 'is-missing');
+          select.setAttribute('aria-invalid', 'false');
+        }
+
+        function validate() {
+          let answered = 0;
+          let correctCount = 0;
+
+          for (const select of selects) {
+            const itemId = select.getAttribute('data-activity-item');
+            const state = select.closest('.pg115-state');
+            const answer = select.value;
+            state?.classList.remove('is-correct', 'is-incorrect', 'is-missing');
+
+            if (!answer) {
+              state?.classList.add('is-missing');
+              select.setAttribute('aria-invalid', 'true');
+              continue;
+            }
+
+            answered += 1;
+            const isCorrect = correct[itemId] === answer;
+            state?.classList.add(isCorrect ? 'is-correct' : 'is-incorrect');
+            select.setAttribute('aria-invalid', String(!isCorrect));
+            if (isCorrect) correctCount += 1;
+          }
+
+          const allCorrect = correctCount === selects.length;
+          completed = allCorrect;
+          for (const select of selects) select.disabled = allCorrect;
+          if (feedback) {
+            if (allCorrect) {
+              feedback.textContent = 'Excellent — every match is correct.';
+            } else if (answered < selects.length) {
+              feedback.textContent = `Choose a location for all ${selects.length} kingdoms. ${selects.length - answered} remaining.`;
+            } else {
+              feedback.textContent = `${correctCount} of ${selects.length} matches are correct. Review the highlighted answers and try again.`;
+            }
+          }
+          return allCorrect;
+        }
+
+        for (const select of selects) {
+          select.addEventListener('change', () => {
+            clearVerdict(select);
+            if (feedback) feedback.textContent = '';
+          });
+        }
+
+        reset?.addEventListener('click', () => {
+          if (completed) {
+            window.location.reload();
+            return;
+          }
+          for (const select of selects) {
+            select.value = '';
+            clearVerdict(select);
+          }
+          if (feedback) feedback.textContent = 'Answers reset.';
+          selects[0]?.focus();
+        });
+
+        window.__adtPendingCustomActivities = window.__adtPendingCustomActivities || [];
+        window.__adtPendingCustomActivities.push({ section, handlers: { validate } });
+      })();
     </script>
     <div class="relative z-50" id="interface-container"></div>
     <div class="relative z-50" id="nav-container"></div>

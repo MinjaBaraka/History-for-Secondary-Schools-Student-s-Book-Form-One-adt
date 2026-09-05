@@ -10,6 +10,30 @@
     <link href="./content/tailwind_output.css" rel="stylesheet">
     <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
     <link href="./assets/fonts.css" rel="stylesheet">
+    <style>
+      .pg106-map-label {
+        position: absolute;
+        left: var(--x);
+        top: var(--y);
+        transform: translate(-50%, -50%) rotate(var(--r, 0deg));
+        transform-origin: center;
+        white-space: nowrap;
+        font-size: clamp(10px, 2.2vw, 12px);
+        line-height: 1.1;
+        text-shadow: 0 1px 2px rgba(255, 255, 255, .9);
+      }
+
+      .pg106-map-label--large {
+        font-size: clamp(14px, 3vw, 18px);
+      }
+
+      .pg106-map-label--left {
+        transform: translate(0, -50%) rotate(var(--r, 0deg));
+        transform-origin: left center;
+        font-size: clamp(12px, 2.8vw, 14px);
+        font-weight: 600;
+      }
+    </style>
 </head>
 
 <body class="min-h-screen flex items-center justify-center">
@@ -17,73 +41,73 @@
       <h1 class="sr-only" id="page-heading">History for Secondary Schools Student’s Book Form One</h1>
       <div id="content" class="container opacity-0">
   <section data-section-type="text_and_single_image" data-section-id="pg106_sec001" class="mx-auto w-full max-w-5xl px-8 max-lg:px-6 max-sm:px-3 py-8 bg-white">
-    <figure class="w-full">
-      <div class="relative w-full rounded-2xl border-4 border-neutral-800 bg-[#d9eef7] shadow-lg overflow-hidden">
-        <div aria-hidden="true" class="h-22 max-sm:h-8 w-full bg-[linear-gradient(90deg,#16b3a7_0%,#16b3a7_100%)] relative">
-          <div class="absolute left-0 top-5 max-sm:top-2 h-11 max-sm:h-4 w-[36%] max-sm:w-[36%] rounded-r-2xl bg-white/95 border-b-4 border-[#16b3a7]"></div>
-          <div class="absolute inset-y-0 left-0 right-0 opacity-15 [background-image:repeating-linear-gradient(90deg,transparent_0,transparent_58px,white_58px,white_60px)]"></div>
-        </div>
+    <figure class="mx-auto w-full max-w-[52rem]">
+      <div class="relative mx-auto w-full">
+          <img data-id="pg106_im001" src="images/pg106_im001.png" alt="Map of Africa showing centralised states in Central Africa" class="block h-auto w-full" style="max-width: 100%; height: auto;">
 
-        <div class="relative p-3 max-sm:p-2 pt-4 max-sm:pt-2">
-          <img data-id="pg106_im001" src="images/pg106_im001.png" alt="Map of Africa showing centralised states in Central Africa" class="w-full h-auto block border-[3px] border-neutral-800 bg-[#c8e5f5]" style="max-width: 100%; height: auto;">
+          <div class="absolute" style="left: 14.244%; top: 10.765%; width: 74.419%; height: 87.553%;">
+            <div class="absolute inset-0 z-10">
+              <div data-id="pg106_n0003" class="pg106-map-label italic text-sky-700" style="--x: 74.1%; --y: 2.9%;">Black Sea</div>
+              <div data-id="pg106_n0004" class="pg106-map-label italic text-sky-700" style="--x: 97.8%; --y: 4.1%; --r: 82deg;">Caspian Sea</div>
+              <div data-id="pg106_n0005" class="pg106-map-label italic text-sky-700" style="--x: 51.9%; --y: 12.1%;">Mediterranean Sea</div>
+              <div data-id="pg106_n0006" class="pg106-map-label italic text-sky-700" style="--x: 80.3%; --y: 26.5%; --r: 66deg;">Red Sea</div>
+              <div data-id="pg106_n0007" class="pg106-map-label italic text-blue-700" style="--x: 69.4%; --y: 26.1%; --r: -52deg;">R.Nile</div>
+              <div data-id="pg106_n0008" class="pg106-map-label italic text-blue-700" style="--x: 74.9%; --y: 35.1%; --r: 63deg;">R.Blue Nile</div>
+              <div data-id="pg106_n0009" class="pg106-map-label italic text-blue-700" style="--x: 70.3%; --y: 38.8%; --r: -64deg;">R.White Nile</div>
+              <div data-id="pg106_n0010" class="pg106-map-label italic text-blue-700" style="--x: 30%; --y: 35.4%; --r: 55deg;">R.Niger</div>
+              <div data-id="pg106_n0011" class="pg106-map-label italic text-blue-700" style="--x: 42.5%; --y: 39.7%; --r: 14deg;">R.Benue</div>
+              <div data-id="pg106_n0012" class="pg106-map-label italic text-blue-700" style="--x: 55.3%; --y: 47.4%; --r: 10deg;">R.Zaire</div>
+              <div data-id="pg106_n0013" class="pg106-map-label italic text-sky-700" style="--x: 26.7%; --y: 46.8%;">Gulf of Guinea</div>
+              <div data-id="pg106_n0014" class="pg106-map-label pg106-map-label--large italic font-semibold text-sky-700" style="--x: 16%; --y: 59.5%;">Atlantic Ocean</div>
+              <div data-id="pg106_n0015" class="pg106-map-label italic text-sky-700" style="--x: 82.7%; --y: 71.7%; --r: -62deg;">Mozambique Channel</div>
+              <div data-id="pg106_n0016" class="pg106-map-label pg106-map-label--large italic text-neutral-800" style="--x: 91.5%; --y: 72.4%; --r: -66deg;">MADAGASCAR</div>
+              <div data-id="pg106_n0017" class="pg106-map-label pg106-map-label--large italic font-semibold text-sky-700" style="--x: 95.9%; --y: 80.4%;">Indian</div>
+              <div data-id="pg106_n0018" class="pg106-map-label pg106-map-label--left italic text-sky-700" style="--x: 5.5%; --y: 49.2%;">Equator</div>
+              <div data-id="pg106_n0019" class="pg106-map-label pg106-map-label--left italic text-sky-700" style="--x: 5.5%; --y: 25%;">Tropic of Cancer</div>
+              <div data-id="pg106_n0020" class="pg106-map-label pg106-map-label--left italic text-sky-700" style="--x: 5.5%; --y: 75%;">Tropic of Capricorn</div>
+              <div data-id="pg106_n0021" class="pg106-map-label italic text-blue-700" style="--x: 72.2%; --y: 68%; --r: -8deg;">R.Zambezi</div>
+              <div data-id="pg106_n0022" class="pg106-map-label pg106-map-label--large font-bold text-black" style="--x: 93.3%; --y: 5.5%;">N</div>
+              <span aria-hidden="true" class="absolute z-10 font-bold text-black" style="left: 47.3%; top: 54.9%; transform: translate(-50%, -50%); font-size: 14px; line-height: 1;">A</span>
+              <span aria-hidden="true" class="absolute z-10 font-bold text-black" style="left: 62.4%; top: 55.5%; transform: translate(-50%, -50%); font-size: 14px; line-height: 1;">B</span>
+              <span aria-hidden="true" class="absolute z-10 font-bold text-black" style="left: 59.7%; top: 58.9%; transform: translate(-50%, -50%); font-size: 14px; line-height: 1;">C</span>
+              <span aria-hidden="true" class="absolute z-10 font-bold text-black" style="left: 63.1%; top: 64.7%; transform: translate(-50%, -50%); font-size: 14px; line-height: 1;">D</span>
+              <span aria-hidden="true" class="absolute z-10 font-bold text-black" style="left: 62.5%; top: 71.3%; transform: translate(-50%, -50%); font-size: 14px; line-height: 1;">E</span>
+            </div>
 
-          <div class="absolute inset-0 pointer-events-none max-sm:hidden">
-            <div data-id="pg106_n0003" class="absolute z-10 adt-caption italic text-sky-700" style="top:6.5%; left:73%;">Black Sea</div>
-            <div data-id="pg106_n0004" class="absolute z-10 adt-caption italic text-sky-700" style="top:3.5%; right:4%; transform:rotate(82deg); transform-origin:center;">Caspian Sea</div>
-            <div data-id="pg106_n0005" class="absolute z-10 adt-caption italic text-sky-700" style="top:15.5%; left:49%;">Mediterranean Sea</div>
-            <div data-id="pg106_n0006" class="absolute z-10 adt-caption italic text-sky-700" style="top:29%; right:13%; transform:rotate(66deg); transform-origin:center;">Red Sea</div>
-            <div data-id="pg106_n0007" class="absolute z-10 adt-caption italic text-blue-700" style="top:34%; left:71%; transform:rotate(-52deg); transform-origin:center;">R.Nile</div>
-            <div data-id="pg106_n0008" class="absolute z-10 adt-caption italic text-blue-700" style="top:43%; left:80%; transform:rotate(63deg); transform-origin:center;">R.Blue Nile</div>
-            <div data-id="pg106_n0009" class="absolute z-10 adt-caption italic text-blue-700" style="top:44%; left:72%; transform:rotate(-64deg); transform-origin:center;">R.White Nile</div>
-            <div data-id="pg106_n0010" class="absolute z-10 adt-caption italic text-blue-700" style="top:43%; left:31%; transform:rotate(55deg); transform-origin:center;">R.Niger</div>
-            <div data-id="pg106_n0011" class="absolute z-10 adt-caption italic text-blue-700" style="top:48%; left:42%; transform:rotate(14deg); transform-origin:center;">R.Benue</div>
-            <div data-id="pg106_n0012" class="absolute z-10 adt-caption italic text-blue-700" style="top:57%; left:51%; transform:rotate(10deg); transform-origin:center;">R.Zaire</div>
-            <div data-id="pg106_n0013" class="absolute z-10 adt-caption italic text-sky-700" style="top:56%; left:24%;">Gulf of Guinea</div>
-            <div data-id="pg106_n0014" class="absolute z-10 adt-body italic font-semibold text-sky-700" style="top:69%; left:8%;">Atlantic Ocean</div>
-            <div data-id="pg106_n0015" class="absolute z-10 adt-caption italic text-sky-700" style="top:76%; right:9%; transform:rotate(-62deg); transform-origin:center;">Mozambique Channel</div>
-            <div data-id="pg106_n0016" class="absolute z-10 adt-body italic text-neutral-800" style="top:73%; right:2%; transform:rotate(-66deg); transform-origin:center;">MADAGASCAR</div>
-            <div data-id="pg106_n0017" class="absolute z-10 adt-body italic font-semibold text-sky-700" style="bottom:12%; right:1.5%;">Indian</div>
-            <div data-id="pg106_n0018" class="absolute z-10 adt-caption italic text-sky-700" style="top:57%; left:0.5%;">Equator</div>
-            <div data-id="pg106_n0019" class="absolute z-10 adt-caption italic text-sky-700" style="top:28%; left:0.5%;">Tropic of Cancer</div>
-            <div data-id="pg106_n0020" class="absolute z-10 adt-caption italic text-sky-700" style="bottom:18%; left:0.5%;">Tropic of Capricorn</div>
-            <div data-id="pg106_n0021" class="absolute z-10 adt-caption italic text-blue-700" style="top:76%; left:70%; transform:rotate(-8deg); transform-origin:center;">R.Zambezi</div>
-            <div data-id="pg106_n0022" class="absolute z-10 adt-caption font-bold text-black" style="top:9%; right:7%;">N</div>
-          </div>
+            <div aria-hidden="true" class="absolute z-10 bg-black" style="left: 92.7%; top: 6.4%; width: 1.56%; height: 5.2%;"></div>
 
-          <div aria-hidden="true" class="absolute top-[10.5%] right-[7.1%] z-10 w-1.5 h-16 bg-black max-sm:hidden"></div>
-          <div aria-hidden="true" class="absolute top-[13.8%] right-[5.35%] z-10 w-10 h-1.5 bg-black rounded max-sm:hidden"></div>
-
-          <div class="absolute left-4 bottom-4 z-10 bg-white/95 border border-neutral-500 shadow-sm w-40 max-lg:w-36 max-sm:w-[8.5rem] max-sm:left-2 max-sm:bottom-2">
-            <table class="w-full border-collapse">
+            <div class="absolute z-10 bg-white/95" style="left: .8%; bottom: .5%; width: 19.15%; height: 16.8%;">
+              <table class="border-collapse" style="width: 100%; height: 100%; table-layout: fixed;">
               <caption class="sr-only">Map key</caption>
               <tr>
-                <th colspan="2" class="border border-neutral-500 text-left px-2 py-1 font-bold adt-body bg-white"><span data-id="pg106_n0026">Key</span></th>
+                <th colspan="2" class="border border-neutral-500 bg-white text-left font-bold" style="padding: 3px 4px; font-size: 16px; line-height: 1.2;"><span data-id="pg106_n0026">Key</span></th>
               </tr>
               <tr>
-                <th scope="row" class="border border-neutral-500 px-2 py-1 text-center font-bold adt-body w-12"><span data-id="pg106_n0029">A</span></th>
-                <td class="border border-neutral-500 px-2 py-1 adt-body"><span data-id="pg106_n0031">Kongo</span></td>
+                <th scope="row" class="border border-neutral-500 text-center font-bold" style="width: 27%; padding: 4px; font-size: 12px; line-height: 1.25;"><span data-id="pg106_n0029">A</span></th>
+                <td class="border border-neutral-500" style="padding: 4px; font-size: 12px; line-height: 1.25;"><span data-id="pg106_n0031">Kongo</span></td>
               </tr>
               <tr>
-                <th scope="row" class="border border-neutral-500 px-2 py-1 text-center font-bold adt-body"><span data-id="pg106_n0034">B</span></th>
-                <td class="border border-neutral-500 px-2 py-1 adt-body"><span data-id="pg106_n0036">Luba</span></td>
+                <th scope="row" class="border border-neutral-500 text-center font-bold" style="width: 27%; padding: 4px; font-size: 12px; line-height: 1.25;"><span data-id="pg106_n0034">B</span></th>
+                <td class="border border-neutral-500" style="padding: 4px; font-size: 12px; line-height: 1.25;"><span data-id="pg106_n0036">Luba</span></td>
               </tr>
               <tr>
-                <th scope="row" class="border border-neutral-500 px-2 py-1 text-center font-bold adt-body"><span data-id="pg106_n0039">C</span></th>
-                <td class="border border-neutral-500 px-2 py-1 adt-body"><span data-id="pg106_n0041">Lunda</span></td>
+                <th scope="row" class="border border-neutral-500 text-center font-bold" style="width: 27%; padding: 4px; font-size: 12px; line-height: 1.25;"><span data-id="pg106_n0039">C</span></th>
+                <td class="border border-neutral-500" style="padding: 4px; font-size: 12px; line-height: 1.25;"><span data-id="pg106_n0041">Lunda</span></td>
               </tr>
               <tr>
-                <th scope="row" class="border border-neutral-500 px-2 py-1 text-center font-bold adt-body"><span data-id="pg106_n0044">D</span></th>
-                <td class="border border-neutral-500 px-2 py-1 adt-body"><span data-id="pg106_n0046">Lozi</span></td>
+                <th scope="row" class="border border-neutral-500 text-center font-bold" style="width: 27%; padding: 4px; font-size: 12px; line-height: 1.25;"><span data-id="pg106_n0044">D</span></th>
+                <td class="border border-neutral-500" style="padding: 4px; font-size: 12px; line-height: 1.25;"><span data-id="pg106_n0046">Lozi</span></td>
               </tr>
               <tr>
-                <th scope="row" class="border border-neutral-500 px-2 py-1 text-center font-bold adt-body"><span data-id="pg106_n0049">E</span></th>
-                <td class="border border-neutral-500 px-2 py-1 adt-body"><span data-id="pg106_n0051">Mwenemutapa</span></td>
+                <th scope="row" class="border border-neutral-500 text-center font-bold" style="width: 27%; padding: 4px; font-size: 12px; line-height: 1.25;"><span data-id="pg106_n0049">E</span></th>
+                <td class="border border-neutral-500" style="padding: 4px; font-size: 12px; line-height: 1.25;"><span data-id="pg106_n0051">Mwenemutapa</span></td>
               </tr>
             </table>
           </div>
+          <div aria-hidden="true" class="absolute z-10 text-black" style="left: 84.2%; top: 97.5%; font-size: 7px; line-height: 1; white-space: nowrap;">0&nbsp;&nbsp;250&nbsp;&nbsp;500&nbsp;&nbsp;1,000 Km</div>
         </div>
       </div>
-      <figcaption class="mt-3 text-center text-neutral-800 adt-caption font-medium max-sm:px-2">
+      <figcaption class="mt-3 text-center text-neutral-800 adt-caption font-semibold italic max-sm:px-2">
         <span data-id="pg106_n0052">Figure 7.4: Some centralised states in Central Africa</span>
       </figcaption>
     </figure>
